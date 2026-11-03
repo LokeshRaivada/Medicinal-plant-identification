@@ -1,0 +1,1454 @@
+{
+  "metadata": {
+    "title": "Indian Plant State Availability and Seasonal Guide",
+    "version": "1.0",
+    "country": "India",
+    "availability_levels": {
+      "Highly available": "Commonly cultivated, widely distributed, or frequently encountered in suitable habitats.",
+      "Moderately available": "Occurs or is cultivated in some areas of the state.",
+      "Less available": "More localized, habitat-specific, or limited in cultivation.",
+      "Unknown": "Insufficient verified information to assign a reliable state-level category."
+    },
+    "season_definitions": {
+      "Summer": "March to May",
+      "Monsoon": "June to September",
+      "Post-monsoon": "October to November",
+      "Winter": "December to February",
+      "Year-round": "May be present throughout the year where climate, cultivation, and water supply permit."
+    },
+    "important_notes": [
+      "Availability means likely occurrence or cultivation, not guaranteed availability at a specific location.",
+      "Seasonality varies by species, state, altitude, rainfall, irrigation, and cultivar.",
+      "Flowering, fruiting, harvesting, and visible foliage are different seasonal events.",
+      "For cultivated crops, availability may depend on planting schedules and markets.",
+      "Unknown scientific identities must be confirmed before assigning reliable state distributions.",
+      "These estimates must be validated against botanical records before being presented as authoritative facts."
+    ],
+    "recommended_verification_sources": [
+      {
+        "name": "Botanical Survey of India Virtual Herbarium",
+        "url": "https://ivh.bsi.gov.in"
+      },
+      {
+        "name": "National Medicinal Plants Board and FRLHT Indian Medicinal Plants Database",
+        "url": "https://www.medicinalplants.in"
+      }
+    ]
+  },
+  "plants": [
+    {
+      "plant_name": "Aloevera",
+      "scientific_name": "Aloe vera",
+      "availability": {
+        "Highly available": ["Rajasthan", "Gujarat", "Maharashtra", "Karnataka", "Andhra Pradesh", "Telangana"],
+        "Moderately available": ["Tamil Nadu", "Kerala", "Madhya Pradesh", "Uttar Pradesh"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Spring", "Summer", "Monsoon"],
+        "flowering": ["Winter", "Spring"],
+        "harvesting": ["Year-round"],
+        "year_round_presence": true
+      },
+      "season_notes": "Drought-tolerant succulent; cultivated leaves may be harvested throughout the year."
+    },
+    {
+      "plant_name": "Amla",
+      "scientific_name": "Phyllanthus emblica",
+      "availability": {
+        "Highly available": ["Uttar Pradesh", "Madhya Pradesh", "Rajasthan", "Gujarat"],
+        "Moderately available": ["Maharashtra", "Andhra Pradesh", "Telangana", "Karnataka", "Tamil Nadu"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Monsoon"],
+        "flowering": ["Spring"],
+        "fruiting": ["Autumn", "Winter"],
+        "harvesting": ["Autumn", "Winter"],
+        "year_round_presence": true
+      },
+      "season_notes": "Fruit harvesting commonly occurs in the cooler months; timing varies by region and cultivar."
+    },
+    {
+      "plant_name": "Amruthaballi",
+      "scientific_name": "Often Tinospora cordifolia; confirm identity",
+      "availability": {
+        "Highly available": [],
+        "Moderately available": ["Karnataka", "Kerala", "Tamil Nadu", "Andhra Pradesh", "Telangana", "Maharashtra"],
+        "Less available": [],
+        "unknown": ["All states pending local species verification"]
+      },
+      "seasonality": {
+        "growth": ["Monsoon", "Post-monsoon"],
+        "flowering": ["Season varies by region"],
+        "harvesting": ["Varies by plant part and cultivation"],
+        "year_round_presence": true
+      },
+      "season_notes": "A climbing plant; local identity and seasonal timing require verification."
+    },
+    {
+      "plant_name": "Arali",
+      "scientific_name": null,
+      "availability": {
+        "Highly available": [],
+        "Moderately available": [],
+        "Less available": [],
+        "unknown": ["All states"]
+      },
+      "seasonality": {
+        "growth": ["Unknown"],
+        "flowering": ["Unknown"],
+        "fruiting": ["Unknown"],
+        "harvesting": ["Unknown"],
+        "year_round_presence": null
+      },
+      "season_notes": "Regional name may refer to different plants. Confirm the species before assigning distribution."
+    },
+    {
+      "plant_name": "Astma_weed",
+      "scientific_name": null,
+      "availability": {
+        "Highly available": [],
+        "Moderately available": [],
+        "Less available": [],
+        "unknown": ["All states"]
+      },
+      "seasonality": {
+        "growth": ["Unknown"],
+        "flowering": ["Unknown"],
+        "fruiting": ["Unknown"],
+        "harvesting": ["Unknown"],
+        "year_round_presence": null
+      },
+      "season_notes": "Common name is insufficient to establish a reliable botanical identity."
+    },
+    {
+      "plant_name": "Badipala",
+      "scientific_name": null,
+      "availability": {
+        "Highly available": [],
+        "Moderately available": [],
+        "Less available": [],
+        "unknown": ["All states"]
+      },
+      "seasonality": {
+        "growth": ["Unknown"],
+        "flowering": ["Unknown"],
+        "fruiting": ["Unknown"],
+        "harvesting": ["Unknown"],
+        "year_round_presence": null
+      },
+      "season_notes": "Requires local botanical identification."
+    },
+    {
+      "plant_name": "Balloon_Vine",
+      "scientific_name": "Cardiospermum halicacabum",
+      "availability": {
+        "Highly available": ["Karnataka", "Kerala", "Tamil Nadu", "Andhra Pradesh", "Telangana"],
+        "Moderately available": ["Maharashtra", "Odisha", "West Bengal"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Monsoon", "Post-monsoon"],
+        "flowering": ["Monsoon", "Post-monsoon"],
+        "fruiting": ["Post-monsoon", "Winter"],
+        "harvesting": ["Varies by use"],
+        "year_round_presence": false
+      },
+      "season_notes": "A climbing herb often more conspicuous during the rainy season."
+    },
+    {
+      "plant_name": "Bamboo",
+      "scientific_name": "Bambusoideae",
+      "availability": {
+        "Highly available": ["Assam", "Arunachal Pradesh", "Manipur", "Meghalaya", "Mizoram", "Nagaland", "Tripura", "Kerala", "Karnataka"],
+        "Moderately available": ["West Bengal", "Odisha", "Maharashtra", "Andhra Pradesh", "Telangana", "Tamil Nadu"],
+        "Less available": ["Rajasthan", "Haryana"],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Monsoon"],
+        "flowering": ["Species-specific; often irregular"],
+        "fruiting": ["Species-specific; often irregular"],
+        "harvesting": ["Varies by species and local practice"],
+        "year_round_presence": true
+      },
+      "season_notes": "Bamboo flowering cycles differ greatly by species; flowering should not be assigned one universal season."
+    },
+    {
+      "plant_name": "Beans",
+      "scientific_name": "Species not specified",
+      "availability": {
+        "Highly available": ["Karnataka", "Maharashtra", "Uttar Pradesh", "Madhya Pradesh", "Tamil Nadu"],
+        "Moderately available": ["Andhra Pradesh", "Telangana", "Kerala", "Gujarat", "West Bengal"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Varies by bean species and planting schedule"],
+        "flowering": ["Varies by species"],
+        "fruiting": ["Varies by species"],
+        "harvesting": ["Varies by species and crop cycle"],
+        "year_round_presence": true
+      },
+      "season_notes": "Beans covers multiple crop species. Accurate seasonal details require the exact species or cultivar."
+    },
+    {
+      "plant_name": "Betel",
+      "scientific_name": "Piper betle",
+      "availability": {
+        "Highly available": ["West Bengal", "Assam", "Odisha", "Karnataka", "Kerala"],
+        "Moderately available": ["Tamil Nadu", "Andhra Pradesh", "Telangana", "Maharashtra", "Tripura"],
+        "Less available": ["Rajasthan", "Haryana"],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Monsoon", "Post-monsoon"],
+        "flowering": ["Season varies"],
+        "harvesting": ["Year-round under managed cultivation"],
+        "year_round_presence": true
+      },
+      "season_notes": "A tropical cultivated vine requiring suitable moisture and growing conditions."
+    },
+    {
+      "plant_name": "Bhrami",
+      "scientific_name": "Possibly Bacopa monnieri; verify identity",
+      "availability": {
+        "Highly available": [],
+        "Moderately available": ["Karnataka", "Kerala", "Tamil Nadu", "West Bengal", "Odisha"],
+        "Less available": [],
+        "unknown": ["All states pending identity verification"]
+      },
+      "seasonality": {
+        "growth": ["Monsoon", "Post-monsoon"],
+        "flowering": ["Warm months; region-dependent"],
+        "harvesting": ["Varies by cultivation"],
+        "year_round_presence": true
+      },
+      "season_notes": "The name Brahmi is used for more than one plant, so identification is essential."
+    },
+    {
+      "plant_name": "Bringaraja",
+      "scientific_name": "Eclipta prostrata",
+      "availability": {
+        "Highly available": ["Karnataka", "Kerala", "Tamil Nadu", "Andhra Pradesh", "Telangana"],
+        "Moderately available": ["Maharashtra", "Odisha", "West Bengal", "Uttar Pradesh"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Monsoon", "Post-monsoon"],
+        "flowering": ["Warm, moist months"],
+        "harvesting": ["During active vegetative growth"],
+        "year_round_presence": true
+      },
+      "season_notes": "Often grows in moist ground and disturbed habitats."
+    },
+    {
+      "plant_name": "Caricature",
+      "scientific_name": null,
+      "availability": {
+        "Highly available": [],
+        "Moderately available": [],
+        "Less available": [],
+        "unknown": ["All states"]
+      },
+      "seasonality": {
+        "growth": ["Unknown"],
+        "flowering": ["Unknown"],
+        "fruiting": ["Unknown"],
+        "harvesting": ["Unknown"],
+        "year_round_presence": null
+      },
+      "season_notes": "Dataset label may be a spelling or common-name variant. Confirm botanical identity."
+    },
+    {
+      "plant_name": "Castor",
+      "scientific_name": "Ricinus communis",
+      "availability": {
+        "Highly available": ["Gujarat", "Rajasthan", "Andhra Pradesh", "Telangana"],
+        "Moderately available": ["Karnataka", "Tamil Nadu", "Maharashtra", "Madhya Pradesh"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Monsoon", "Post-monsoon"],
+        "flowering": ["Post-monsoon", "Winter"],
+        "fruiting": ["Winter", "Spring"],
+        "harvesting": ["Varies by sowing date"],
+        "year_round_presence": true
+      },
+      "season_notes": "Commercial crop timing varies by region and rainfall."
+    },
+    {
+      "plant_name": "Catharanthus",
+      "scientific_name": "Catharanthus roseus",
+      "availability": {
+        "Highly available": ["Karnataka", "Kerala", "Tamil Nadu", "Andhra Pradesh", "Telangana", "Maharashtra"],
+        "Moderately available": ["Gujarat", "West Bengal", "Odisha", "Uttar Pradesh"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Spring", "Summer", "Monsoon"],
+        "flowering": ["Warm months; often extended under cultivation"],
+        "harvesting": ["Year-round ornamental cultivation"],
+        "year_round_presence": true
+      },
+      "season_notes": "A commonly cultivated ornamental in warm climates."
+    },
+    {
+      "plant_name": "Chakte",
+      "scientific_name": null,
+      "availability": {
+        "Highly available": [],
+        "Moderately available": [],
+        "Less available": [],
+        "unknown": ["All states"]
+      },
+      "seasonality": {
+        "growth": ["Unknown"],
+        "flowering": ["Unknown"],
+        "fruiting": ["Unknown"],
+        "harvesting": ["Unknown"],
+        "year_round_presence": null
+      },
+      "season_notes": "Requires local botanical identification."
+    },
+    {
+      "plant_name": "Chilly",
+      "scientific_name": "Capsicum species",
+      "availability": {
+        "Highly available": ["Andhra Pradesh", "Telangana", "Karnataka", "Maharashtra", "Tamil Nadu"],
+        "Moderately available": ["Madhya Pradesh", "West Bengal", "Odisha", "Uttar Pradesh", "Gujarat"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Varies by planting season"],
+        "flowering": ["Warm growing period"],
+        "fruiting": ["Varies by cultivar and planting date"],
+        "harvesting": ["Often staggered over several weeks or months"],
+        "year_round_presence": true
+      },
+      "season_notes": "India has multiple chilli crop cycles; state and cultivar determine the calendar."
+    },
+    {
+      "plant_name": "Citron lime (herelikai)",
+      "scientific_name": "Citrus species; exact identity requires confirmation",
+      "availability": {
+        "Highly available": ["Karnataka", "Andhra Pradesh", "Telangana", "Tamil Nadu", "Maharashtra"],
+        "Moderately available": ["Kerala", "Gujarat", "Odisha", "West Bengal"],
+        "Less available": [],
+        "unknown": ["Exact distribution pending species identification"]
+      },
+      "seasonality": {
+        "growth": ["Spring", "Monsoon"],
+        "flowering": ["Often spring; varies by citrus species"],
+        "fruiting": ["Varies by species and region"],
+        "harvesting": ["Species- and cultivar-dependent"],
+        "year_round_presence": true
+      },
+      "season_notes": "Citrus species may have more than one flowering or fruiting flush."
+    },
+    {
+      "plant_name": "Coffee",
+      "scientific_name": "Coffea species",
+      "availability": {
+        "Highly available": ["Karnataka", "Kerala"],
+        "Moderately available": ["Tamil Nadu"],
+        "Less available": ["Andhra Pradesh", "Odisha"],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Monsoon"],
+        "flowering": ["Often follows pre-monsoon showers"],
+        "fruiting": ["Varies by species and elevation"],
+        "harvesting": ["Generally late autumn through winter in major southern growing areas"],
+        "year_round_presence": true
+      },
+      "season_notes": "Harvest calendar differs between Arabica and Robusta and by elevation."
+    },
+    {
+      "plant_name": "Common rue(naagdalli)",
+      "scientific_name": "Possibly Ruta graveolens; verify identity",
+      "availability": {
+        "Highly available": [],
+        "Moderately available": [],
+        "Less available": [],
+        "unknown": ["All states pending identity verification"]
+      },
+      "seasonality": {
+        "growth": ["Unknown"],
+        "flowering": ["Unknown"],
+        "fruiting": ["Unknown"],
+        "harvesting": ["Unknown"],
+        "year_round_presence": null
+      },
+      "season_notes": "The regional name must be linked to a verified botanical species."
+    },
+    {
+      "plant_name": "Coriender",
+      "scientific_name": "Coriandrum sativum",
+      "availability": {
+        "Highly available": ["Rajasthan", "Madhya Pradesh", "Gujarat", "Andhra Pradesh", "Telangana"],
+        "Moderately available": ["Karnataka", "Tamil Nadu", "Maharashtra", "Uttar Pradesh"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Winter in many regions; other seasons under suitable cultivation"],
+        "flowering": ["Cool-season crop period"],
+        "fruiting": ["Spring in many growing areas"],
+        "harvesting": ["Leaves harvested earlier; seeds harvested after maturity"],
+        "year_round_presence": true
+      },
+      "season_notes": "Leaf and seed production have different harvest schedules."
+    },
+    {
+      "plant_name": "Curry",
+      "scientific_name": "Murraya koenigii",
+      "availability": {
+        "Highly available": ["Karnataka", "Kerala", "Tamil Nadu", "Andhra Pradesh", "Telangana", "Maharashtra"],
+        "Moderately available": ["Gujarat", "Odisha", "West Bengal"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Spring", "Monsoon"],
+        "flowering": ["Varies by climate"],
+        "fruiting": ["Varies by climate"],
+        "harvesting": ["Leaves often harvested year-round"],
+        "year_round_presence": true
+      },
+      "season_notes": "Leaf availability is often continuous in managed gardens."
+    },
+    {
+      "plant_name": "Doddpathre",
+      "scientific_name": "Often Coleus amboinicus; confirm identity",
+      "availability": {
+        "Highly available": ["Karnataka", "Kerala", "Tamil Nadu"],
+        "Moderately available": ["Andhra Pradesh", "Telangana", "Maharashtra"],
+        "Less available": [],
+        "unknown": ["Other states pending verification"]
+      },
+      "seasonality": {
+        "growth": ["Monsoon", "Post-monsoon"],
+        "flowering": ["Varies by growing conditions"],
+        "harvesting": ["Leaves can be harvested year-round under cultivation"],
+        "year_round_presence": true
+      },
+      "season_notes": "Commonly cultivated as a household herb in suitable climates."
+    },
+    {
+      "plant_name": "Drumstick",
+      "scientific_name": "Moringa oleifera",
+      "availability": {
+        "Highly available": ["Tamil Nadu", "Andhra Pradesh", "Telangana", "Karnataka", "Maharashtra"],
+        "Moderately available": ["Gujarat", "Rajasthan", "Madhya Pradesh", "Uttar Pradesh", "Odisha"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Spring", "Monsoon"],
+        "flowering": ["Varies by region and cultivar"],
+        "fruiting": ["Varies by planting date"],
+        "harvesting": ["Leaves and pods harvested at different times"],
+        "year_round_presence": true
+      },
+      "season_notes": "Multiple flowering and pod-production periods may occur under managed cultivation."
+    },
+    {
+      "plant_name": "Ekka",
+      "scientific_name": "Calotropis species",
+      "availability": {
+        "Highly available": ["Rajasthan", "Gujarat", "Maharashtra", "Karnataka", "Andhra Pradesh", "Telangana"],
+        "Moderately available": ["Tamil Nadu", "Madhya Pradesh", "Uttar Pradesh"],
+        "Less available": ["High-altitude Himalayan areas"],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Spring", "Monsoon"],
+        "flowering": ["Often extended in warm climates"],
+        "fruiting": ["Varies by species and region"],
+        "harvesting": ["Not applicable as a conventional crop"],
+        "year_round_presence": true
+      },
+      "season_notes": "A hardy shrub found in dry and disturbed habitats; confirm the species."
+    },
+    {
+      "plant_name": "Eucalyptus",
+      "scientific_name": "Eucalyptus species",
+      "availability": {
+        "Highly available": ["Karnataka", "Tamil Nadu", "Andhra Pradesh", "Telangana"],
+        "Moderately available": ["Maharashtra", "Kerala", "Odisha", "West Bengal", "Himachal Pradesh"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Varies by species and rainfall"],
+        "flowering": ["Species-dependent"],
+        "fruiting": ["Species-dependent"],
+        "harvesting": ["Varies by forestry plantation rotation"],
+        "year_round_presence": true
+      },
+      "season_notes": "Plantation distribution is not the same as natural native distribution."
+    },
+    {
+      "plant_name": "Ganigale",
+      "scientific_name": null,
+      "availability": {
+        "Highly available": [],
+        "Moderately available": [],
+        "Less available": [],
+        "unknown": ["All states"]
+      },
+      "seasonality": {
+        "growth": ["Unknown"],
+        "flowering": ["Unknown"],
+        "fruiting": ["Unknown"],
+        "harvesting": ["Unknown"],
+        "year_round_presence": null
+      },
+      "season_notes": "Verify the botanical identity from the dataset image or a local botanical source."
+    },
+    {
+      "plant_name": "Ganike",
+      "scientific_name": null,
+      "availability": {
+        "Highly available": [],
+        "Moderately available": [],
+        "Less available": [],
+        "unknown": ["All states"]
+      },
+      "seasonality": {
+        "growth": ["Unknown"],
+        "flowering": ["Unknown"],
+        "fruiting": ["Unknown"],
+        "harvesting": ["Unknown"],
+        "year_round_presence": null
+      },
+      "season_notes": "Do not infer the distribution of a particular genus from the local name alone."
+    },
+    {
+      "plant_name": "Gasagase",
+      "scientific_name": null,
+      "availability": {
+        "Highly available": [],
+        "Moderately available": [],
+        "Less available": [],
+        "unknown": ["All states"]
+      },
+      "seasonality": {
+        "growth": ["Unknown"],
+        "flowering": ["Unknown"],
+        "fruiting": ["Unknown"],
+        "harvesting": ["Unknown"],
+        "year_round_presence": null
+      },
+      "season_notes": "The local name may refer to a seed or plant product rather than a single plant species."
+    },
+    {
+      "plant_name": "Ginger",
+      "scientific_name": "Zingiber officinale",
+      "availability": {
+        "Highly available": ["Kerala", "Karnataka", "Meghalaya", "Assam", "Arunachal Pradesh"],
+        "Moderately available": ["Tamil Nadu", "Odisha", "West Bengal", "Maharashtra", "Sikkim"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Monsoon", "Post-monsoon"],
+        "flowering": ["Not a major commercial seasonal indicator"],
+        "harvesting": ["Often around 7 to 9 months after planting, depending on intended use"],
+        "year_round_presence": true
+      },
+      "season_notes": "Planting and harvest dates vary by rainfall and whether young or mature rhizomes are required."
+    },
+    {
+      "plant_name": "Globe Amarnath",
+      "scientific_name": "Gomphrena globosa",
+      "availability": {
+        "Highly available": ["Karnataka", "Tamil Nadu", "Kerala", "Maharashtra"],
+        "Moderately available": ["Andhra Pradesh", "Telangana", "West Bengal", "Odisha"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Spring", "Summer", "Monsoon"],
+        "flowering": ["Warm months; often extended under cultivation"],
+        "harvesting": ["Flower harvest varies by cultivation"],
+        "year_round_presence": true
+      },
+      "season_notes": "Common ornamental; flowering depends on temperature, sunlight, and water."
+    },
+    {
+      "plant_name": "Guava",
+      "scientific_name": "Psidium guajava",
+      "availability": {
+        "Highly available": ["Uttar Pradesh", "Madhya Pradesh", "Bihar", "Maharashtra", "Andhra Pradesh", "Telangana"],
+        "Moderately available": ["Karnataka", "Tamil Nadu", "Gujarat", "West Bengal", "Odisha"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Monsoon", "Post-monsoon"],
+        "flowering": ["Multiple seasonal flowering flushes depending on region"],
+        "fruiting": ["Often rainy-season and winter crops, depending on management"],
+        "harvesting": ["Multiple harvest windows may occur"],
+        "year_round_presence": true
+      },
+      "season_notes": "Pruning and irrigation can shift flowering and fruiting periods."
+    },
+    {
+      "plant_name": "Henna",
+      "scientific_name": "Lawsonia inermis",
+      "availability": {
+        "Highly available": ["Rajasthan", "Gujarat", "Madhya Pradesh"],
+        "Moderately available": ["Maharashtra", "Uttar Pradesh", "Andhra Pradesh", "Telangana"],
+        "Less available": ["Cold, high-altitude areas"],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Monsoon", "Post-monsoon"],
+        "flowering": ["Varies by climate"],
+        "harvesting": ["Leaves harvested according to local cultivation"],
+        "year_round_presence": true
+      },
+      "season_notes": "A warm-climate shrub; leaf harvest depends on plant growth and local practice."
+    },
+    {
+      "plant_name": "Hibiscus",
+      "scientific_name": "Hibiscus species; often Hibiscus rosa-sinensis",
+      "availability": {
+        "Highly available": ["Karnataka", "Kerala", "Tamil Nadu", "Andhra Pradesh", "Telangana", "Maharashtra"],
+        "Moderately available": ["Gujarat", "West Bengal", "Odisha", "Uttar Pradesh"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Spring", "Monsoon"],
+        "flowering": ["Often extended in warm climates"],
+        "harvesting": ["Flowers collected when blooming"],
+        "year_round_presence": true
+      },
+      "season_notes": "The genus includes many species and cultivars with different flowering patterns."
+    },
+    {
+      "plant_name": "Honge",
+      "scientific_name": "Often Millettia pinnata, synonym Pongamia pinnata; verify",
+      "availability": {
+        "Highly available": ["Karnataka", "Andhra Pradesh", "Telangana"],
+        "Moderately available": ["Tamil Nadu", "Kerala", "Maharashtra", "Odisha"],
+        "Less available": [],
+        "unknown": ["Other states pending identification"]
+      },
+      "seasonality": {
+        "growth": ["Monsoon"],
+        "flowering": ["Often spring; region-dependent"],
+        "fruiting": ["Often summer through later months, depending on region"],
+        "harvesting": ["Seeds harvested after pod maturity"],
+        "year_round_presence": true
+      },
+      "season_notes": "Confirm the species and local flowering calendar."
+    },
+    {
+      "plant_name": "Insulin",
+      "scientific_name": "Often Costus igneus; verify identity",
+      "availability": {
+        "Highly available": [],
+        "Moderately available": ["Karnataka", "Kerala", "Tamil Nadu", "Andhra Pradesh", "Telangana"],
+        "Less available": [],
+        "unknown": ["All states pending identity verification"]
+      },
+      "seasonality": {
+        "growth": ["Warm, moist growing period"],
+        "flowering": ["Varies by cultivation"],
+        "harvesting": ["Leaves may be collected during active growth"],
+        "year_round_presence": true
+      },
+      "season_notes": "Common name is used for an ornamental plant promoted in some traditional contexts; confirm the species."
+    },
+    {
+      "plant_name": "Jackfruit",
+      "scientific_name": "Artocarpus heterophyllus",
+      "availability": {
+        "Highly available": ["Kerala", "Karnataka", "Tamil Nadu", "Assam", "Tripura"],
+        "Moderately available": ["Andhra Pradesh", "Telangana", "Maharashtra", "West Bengal", "Odisha"],
+        "Less available": ["Very dry or cold areas"],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Monsoon"],
+        "flowering": ["Varies by region"],
+        "fruiting": ["Often spring to summer, depending on location"],
+        "harvesting": ["Usually seasonal; local varieties differ"],
+        "year_round_presence": true
+      },
+      "season_notes": "Fruit seasons vary with cultivar and regional climate."
+    },
+    {
+      "plant_name": "Jasmine",
+      "scientific_name": "Jasminum species",
+      "availability": {
+        "Highly available": ["Tamil Nadu", "Karnataka", "Andhra Pradesh", "Telangana"],
+        "Moderately available": ["Kerala", "Maharashtra", "West Bengal", "Uttar Pradesh"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Spring", "Monsoon"],
+        "flowering": ["Species-dependent; many cultivars flower in warm months"],
+        "harvesting": ["During flowering periods"],
+        "year_round_presence": true
+      },
+      "season_notes": "Jasmine includes multiple cultivated species with different flowering schedules."
+    },
+    {
+      "plant_name": "Kambajala",
+      "scientific_name": null,
+      "availability": {
+        "Highly available": [],
+        "Moderately available": [],
+        "Less available": [],
+        "unknown": ["All states"]
+      },
+      "seasonality": {
+        "growth": ["Unknown"],
+        "flowering": ["Unknown"],
+        "fruiting": ["Unknown"],
+        "harvesting": ["Unknown"],
+        "year_round_presence": null
+      },
+      "season_notes": "Requires reliable botanical identification."
+    },
+    {
+      "plant_name": "Kasambruga",
+      "scientific_name": null,
+      "availability": {
+        "Highly available": [],
+        "Moderately available": [],
+        "Less available": [],
+        "unknown": ["All states"]
+      },
+      "seasonality": {
+        "growth": ["Unknown"],
+        "flowering": ["Unknown"],
+        "fruiting": ["Unknown"],
+        "harvesting": ["Unknown"],
+        "year_round_presence": null
+      },
+      "season_notes": "Requires reliable botanical identification."
+    },
+    {
+      "plant_name": "Kohlrabi",
+      "scientific_name": "Brassica oleracea var. gongylodes",
+      "availability": {
+        "Highly available": ["Himachal Pradesh", "Uttarakhand", "Jammu and Kashmir"],
+        "Moderately available": ["Punjab", "Haryana", "Uttar Pradesh", "Maharashtra", "Karnataka"],
+        "Less available": ["Very hot lowland areas without suitable cultivation"],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Winter in most Indian growing regions"],
+        "flowering": ["Not normally the main harvest stage"],
+        "harvesting": ["Cool season; crop duration depends on variety"],
+        "year_round_presence": false
+      },
+      "season_notes": "A cool-season vegetable; production is possible elsewhere with suitable conditions."
+    },
+    {
+      "plant_name": "Lantana",
+      "scientific_name": "Lantana camara",
+      "availability": {
+        "Highly available": ["Karnataka", "Kerala", "Tamil Nadu", "Maharashtra", "Uttarakhand"],
+        "Moderately available": ["Andhra Pradesh", "Telangana", "Odisha", "West Bengal", "Himachal Pradesh"],
+        "Less available": ["Some very dry or high-altitude habitats"],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Monsoon", "Post-monsoon"],
+        "flowering": ["Often extended in warm climates"],
+        "fruiting": ["Varies by region; may extend over several months"],
+        "harvesting": ["Not applicable as a conventional crop"],
+        "year_round_presence": true
+      },
+      "season_notes": "An invasive shrub in many regions; abundance varies with habitat and management."
+    },
+    {
+      "plant_name": "Lemon",
+      "scientific_name": "Citrus limon",
+      "availability": {
+        "Highly available": ["Andhra Pradesh", "Telangana", "Karnataka", "Maharashtra", "Gujarat"],
+        "Moderately available": ["Tamil Nadu", "Kerala", "Uttar Pradesh", "West Bengal", "Odisha"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Spring", "Monsoon"],
+        "flowering": ["May occur in several flushes"],
+        "fruiting": ["Multiple seasonal crops depending on cultivar"],
+        "harvesting": ["Varies by region and flowering flush"],
+        "year_round_presence": true
+      },
+      "season_notes": "Irrigation, pruning, cultivar, and climate influence fruit availability."
+    },
+    {
+      "plant_name": "Lemongrass",
+      "scientific_name": "Cymbopogon species",
+      "availability": {
+        "Highly available": ["Kerala", "Karnataka", "Tamil Nadu"],
+        "Moderately available": ["Maharashtra", "Assam", "Odisha", "Uttar Pradesh"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Monsoon", "Post-monsoon"],
+        "flowering": ["Species-dependent"],
+        "harvesting": ["Repeated leaf harvest during active growth"],
+        "year_round_presence": true
+      },
+      "season_notes": "Commercial production and harvest timing depend on species and rainfall."
+    },
+    {
+      "plant_name": "Malabar_Nut",
+      "scientific_name": "Justicia adhatoda",
+      "availability": {
+        "Highly available": ["Karnataka", "Kerala", "Tamil Nadu", "Andhra Pradesh", "Telangana"],
+        "Moderately available": ["Maharashtra", "Uttar Pradesh", "West Bengal", "Odisha"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Monsoon", "Post-monsoon"],
+        "flowering": ["Often winter to spring, depending on region"],
+        "harvesting": ["Leaves collected during active growth"],
+        "year_round_presence": true
+      },
+      "season_notes": "A shrub cultivated and found in a range of warm climates."
+    },
+    {
+      "plant_name": "Malabar_Spinach",
+      "scientific_name": "Basella alba",
+      "availability": {
+        "Highly available": ["Kerala", "Karnataka", "Tamil Nadu", "Andhra Pradesh", "Telangana", "West Bengal"],
+        "Moderately available": ["Odisha", "Maharashtra", "Assam"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Monsoon", "Summer"],
+        "flowering": ["Warm months"],
+        "fruiting": ["After flowering"],
+        "harvesting": ["Repeated leaf harvest during active growth"],
+        "year_round_presence": true
+      },
+      "season_notes": "A warm-season leafy vegetable that grows well with adequate moisture."
+    },
+    {
+      "plant_name": "Mango",
+      "scientific_name": "Mangifera indica",
+      "availability": {
+        "Highly available": ["Andhra Pradesh", "Telangana", "Karnataka", "Maharashtra", "Uttar Pradesh", "Gujarat"],
+        "Moderately available": ["Tamil Nadu", "Kerala", "West Bengal", "Odisha", "Bihar"],
+        "Less available": ["Cold, high-altitude areas"],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Spring", "Monsoon"],
+        "flowering": ["Generally winter to early spring, depending on region"],
+        "fruiting": ["Spring", "Summer"],
+        "harvesting": ["Usually summer, varying by cultivar and state"],
+        "year_round_presence": true
+      },
+      "season_notes": "The fruit season is strongly influenced by cultivar and regional climate."
+    },
+    {
+      "plant_name": "Marigold",
+      "scientific_name": "Tagetes species",
+      "availability": {
+        "Highly available": ["Karnataka", "Tamil Nadu", "Andhra Pradesh", "Telangana", "Maharashtra"],
+        "Moderately available": ["Uttar Pradesh", "West Bengal", "Odisha", "Gujarat"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Varies by planting schedule"],
+        "flowering": ["Cool-season and warm-season crops, depending on cultivar"],
+        "harvesting": ["During flowering"],
+        "year_round_presence": true
+      },
+      "season_notes": "Commercial flowering schedules are often planned around local festivals and demand."
+    },
+    {
+      "plant_name": "Mint",
+      "scientific_name": "Mentha species",
+      "availability": {
+        "Highly available": ["Uttar Pradesh", "Punjab", "Haryana", "Bihar"],
+        "Moderately available": ["Karnataka", "Maharashtra", "Tamil Nadu", "Telangana"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Cool season to spring, depending on species"],
+        "flowering": ["Species-dependent"],
+        "harvesting": ["Leaves harvested during active growth"],
+        "year_round_presence": true
+      },
+      "season_notes": "Mint includes several species and cultivars; commercial production calendars differ."
+    },
+    {
+      "plant_name": "Neem",
+      "scientific_name": "Azadirachta indica",
+      "availability": {
+        "Highly available": ["Rajasthan", "Gujarat", "Maharashtra", "Karnataka", "Andhra Pradesh", "Telangana"],
+        "Moderately available": ["Tamil Nadu", "Madhya Pradesh", "Uttar Pradesh", "Odisha", "West Bengal"],
+        "Less available": ["Cold, high-altitude areas"],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Monsoon"],
+        "flowering": ["Often spring; region-dependent"],
+        "fruiting": ["Often late spring through summer"],
+        "harvesting": ["Leaves available widely; seed collection follows fruiting"],
+        "year_round_presence": true
+      },
+      "season_notes": "Flowering and fruiting dates vary with local rainfall and climate."
+    },
+    {
+      "plant_name": "Nelavembu",
+      "scientific_name": "Andrographis paniculata",
+      "availability": {
+        "Highly available": ["Tamil Nadu", "Karnataka", "Kerala", "Andhra Pradesh"],
+        "Moderately available": ["Telangana", "Maharashtra", "Odisha", "West Bengal"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Monsoon"],
+        "flowering": ["Post-monsoon", "Winter"],
+        "fruiting": ["After flowering"],
+        "harvesting": ["Often during or near flowering, depending on cultivation objectives"],
+        "year_round_presence": false
+      },
+      "season_notes": "An annual herb; seasonal occurrence depends on rainfall and local cultivation."
+    },
+    {
+      "plant_name": "Nerale",
+      "scientific_name": "Often Syzygium cumini; verify identity",
+      "availability": {
+        "Highly available": ["Karnataka", "Kerala", "Tamil Nadu", "Maharashtra", "Andhra Pradesh", "Telangana"],
+        "Moderately available": ["Odisha", "West Bengal", "Uttar Pradesh", "Madhya Pradesh"],
+        "Less available": [],
+        "unknown": ["Other states pending identification"]
+      },
+      "seasonality": {
+        "growth": ["Monsoon"],
+        "flowering": ["Late winter to spring in many regions"],
+        "fruiting": ["Usually summer"],
+        "harvesting": ["Summer, depending on location"],
+        "year_round_presence": true
+      },
+      "season_notes": "The common name is often used for jamun, but local confirmation is recommended."
+    },
+    {
+      "plant_name": "Nooni",
+      "scientific_name": "Often Morinda citrifolia; verify identity",
+      "availability": {
+        "Highly available": [],
+        "Moderately available": ["Kerala", "Karnataka", "Tamil Nadu"],
+        "Less available": [],
+        "unknown": ["All states pending identity verification"]
+      },
+      "seasonality": {
+        "growth": ["Warm, moist growing period"],
+        "flowering": ["Varies by climate"],
+        "fruiting": ["May occur across extended periods in suitable climates"],
+        "harvesting": ["Varies by cultivation"],
+        "year_round_presence": true
+      },
+      "season_notes": "Confirm the local name and species before assigning a distribution map."
+    },
+    {
+      "plant_name": "Onion",
+      "scientific_name": "Allium cepa",
+      "availability": {
+        "Highly available": ["Maharashtra", "Madhya Pradesh", "Karnataka", "Gujarat", "Rajasthan"],
+        "Moderately available": ["Uttar Pradesh", "Telangana", "Andhra Pradesh", "Tamil Nadu", "Bihar"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Mainly winter in many regions; other crop seasons also occur"],
+        "flowering": ["Not usually relevant to bulb harvest"],
+        "harvesting": ["Multiple regional harvest windows"],
+        "year_round_presence": true
+      },
+      "season_notes": "Storage and staggered production mean market availability can extend beyond harvest season."
+    },
+    {
+      "plant_name": "Padri",
+      "scientific_name": null,
+      "availability": {
+        "Highly available": [],
+        "Moderately available": [],
+        "Less available": [],
+        "unknown": ["All states"]
+      },
+      "seasonality": {
+        "growth": ["Unknown"],
+        "flowering": ["Unknown"],
+        "fruiting": ["Unknown"],
+        "harvesting": ["Unknown"],
+        "year_round_presence": null
+      },
+      "season_notes": "Requires reliable botanical identification."
+    },
+    {
+      "plant_name": "Palak(Spinach)",
+      "scientific_name": "Spinacia oleracea",
+      "availability": {
+        "Highly available": ["Uttar Pradesh", "Punjab", "Haryana", "Bihar", "West Bengal"],
+        "Moderately available": ["Maharashtra", "Karnataka", "Telangana", "Andhra Pradesh", "Tamil Nadu"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Winter in most Indian regions"],
+        "flowering": ["Usually avoided for leafy harvest"],
+        "harvesting": ["Cool season; repeated leaf harvest possible"],
+        "year_round_presence": true
+      },
+      "season_notes": "Hot conditions can cause early bolting; tropical states may rely on suitable varieties and growing windows."
+    },
+    {
+      "plant_name": "Papaya",
+      "scientific_name": "Carica papaya",
+      "availability": {
+        "Highly available": ["Andhra Pradesh", "Telangana", "Karnataka", "Gujarat", "Maharashtra"],
+        "Moderately available": ["Tamil Nadu", "Kerala", "West Bengal", "Odisha", "Uttar Pradesh"],
+        "Less available": ["Cold, high-altitude areas"],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Warm months", "Monsoon under suitable drainage"],
+        "flowering": ["Can occur repeatedly under favorable conditions"],
+        "fruiting": ["Extended, depending on cultivation"],
+        "harvesting": ["Potentially year-round in managed plantations"],
+        "year_round_presence": true
+      },
+      "season_notes": "Waterlogging, temperature, and cultivar influence fruit production."
+    },
+    {
+      "plant_name": "Parijatha",
+      "scientific_name": "Often Nyctanthes arbor-tristis; verify identity",
+      "availability": {
+        "Highly available": ["Karnataka", "Tamil Nadu", "Andhra Pradesh", "Telangana", "West Bengal"],
+        "Moderately available": ["Maharashtra", "Odisha", "Uttar Pradesh"],
+        "Less available": [],
+        "unknown": ["Other states pending identification"]
+      },
+      "seasonality": {
+        "growth": ["Monsoon"],
+        "flowering": ["Often late monsoon through autumn"],
+        "fruiting": ["After flowering"],
+        "harvesting": ["Flowers collected during flowering"],
+        "year_round_presence": true
+      },
+      "season_notes": "The common name often refers to night-flowering jasmine; verify species and local timing."
+    },
+    {
+      "plant_name": "Pea",
+      "scientific_name": "Pisum sativum",
+      "availability": {
+        "Highly available": ["Uttar Pradesh", "Madhya Pradesh", "Punjab", "Haryana", "Bihar"],
+        "Moderately available": ["Himachal Pradesh", "Uttarakhand", "Maharashtra", "West Bengal"],
+        "Less available": ["Very hot lowland areas during summer"],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Winter"],
+        "flowering": ["Cool season"],
+        "fruiting": ["Winter to early spring"],
+        "harvesting": ["Cool season, depending on sowing date"],
+        "year_round_presence": false
+      },
+      "season_notes": "A cool-season crop in most Indian production areas."
+    },
+    {
+      "plant_name": "Pepper",
+      "scientific_name": "Piper nigrum",
+      "availability": {
+        "Highly available": ["Kerala", "Karnataka"],
+        "Moderately available": ["Tamil Nadu"],
+        "Less available": ["Other states with limited suitable humid cultivation"],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Monsoon"],
+        "flowering": ["Varies by elevation and local climate"],
+        "fruiting": ["Usually follows flowering over several months"],
+        "harvesting": ["Often seasonal in major growing areas"],
+        "year_round_presence": true
+      },
+      "season_notes": "Black pepper is a tropical climbing vine; harvest timing varies by region."
+    },
+    {
+      "plant_name": "Pomoegranate",
+      "scientific_name": "Punica granatum",
+      "availability": {
+        "Highly available": ["Maharashtra", "Karnataka", "Gujarat", "Andhra Pradesh", "Telangana"],
+        "Moderately available": ["Rajasthan", "Tamil Nadu", "Madhya Pradesh"],
+        "Less available": ["Cold, high-altitude areas"],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Varies by crop cycle"],
+        "flowering": ["Can occur in different flushes depending on management"],
+        "fruiting": ["Varies by flowering season"],
+        "harvesting": ["Multiple crop windows may be used in commercial production"],
+        "year_round_presence": true
+      },
+      "season_notes": "Commercial fruiting can be scheduled through water management and pruning."
+    },
+    {
+      "plant_name": "Pumpkin",
+      "scientific_name": "Cucurbita species",
+      "availability": {
+        "Highly available": ["Uttar Pradesh", "Madhya Pradesh", "West Bengal", "Odisha", "Karnataka", "Andhra Pradesh"],
+        "Moderately available": ["Telangana", "Tamil Nadu", "Maharashtra", "Bihar", "Assam"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Spring", "Monsoon"],
+        "flowering": ["Warm growing period"],
+        "fruiting": ["Varies by sowing season"],
+        "harvesting": ["Often several months after sowing"],
+        "year_round_presence": true
+      },
+      "season_notes": "Several Cucurbita species are cultivated; exact crop calendars differ."
+    },
+    {
+      "plant_name": "Raddish",
+      "scientific_name": "Raphanus sativus",
+      "availability": {
+        "Highly available": ["Uttar Pradesh", "Punjab", "Haryana", "Bihar", "West Bengal"],
+        "Moderately available": ["Maharashtra", "Karnataka", "Tamil Nadu", "Telangana"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Winter in most regions; suitable varieties can be grown at other times"],
+        "flowering": ["Usually avoided for root harvest"],
+        "harvesting": ["Often within weeks of sowing, depending on variety"],
+        "year_round_presence": true
+      },
+      "season_notes": "Cooler weather generally favors root quality in many varieties."
+    },
+    {
+      "plant_name": "Rose",
+      "scientific_name": "Rosa species",
+      "availability": {
+        "Highly available": ["Karnataka", "Tamil Nadu", "Maharashtra", "Uttar Pradesh", "West Bengal"],
+        "Moderately available": ["Telangana", "Andhra Pradesh", "Gujarat", "Haryana", "Punjab"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Varies by cultivar and climate"],
+        "flowering": ["Cool season and extended flowering under managed cultivation"],
+        "harvesting": ["During flowering"],
+        "year_round_presence": true
+      },
+      "season_notes": "Flower production varies substantially by cultivar, altitude, and greenhouse management."
+    },
+    {
+      "plant_name": "Sampige",
+      "scientific_name": "Often Magnolia champaca; verify identity",
+      "availability": {
+        "Highly available": ["Karnataka", "Kerala", "Tamil Nadu"],
+        "Moderately available": ["Andhra Pradesh", "Telangana", "Maharashtra"],
+        "Less available": [],
+        "unknown": ["Other states pending identification"]
+      },
+      "seasonality": {
+        "growth": ["Monsoon"],
+        "flowering": ["Warm months; varies by location"],
+        "fruiting": ["After flowering"],
+        "harvesting": ["Flowers collected during bloom"],
+        "year_round_presence": true
+      },
+      "season_notes": "The local name often refers to champak; confirm the exact species."
+    },
+    {
+      "plant_name": "Sapota",
+      "scientific_name": "Manilkara zapota",
+      "availability": {
+        "Highly available": ["Karnataka", "Maharashtra", "Gujarat", "Tamil Nadu"],
+        "Moderately available": ["Andhra Pradesh", "Telangana", "Kerala"],
+        "Less available": ["Cold, high-altitude areas"],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Warm months", "Monsoon"],
+        "flowering": ["Can occur over extended periods"],
+        "fruiting": ["Multiple harvest windows depending on cultivar"],
+        "harvesting": ["Often staggered over the year in managed orchards"],
+        "year_round_presence": true
+      },
+      "season_notes": "Harvesting varies by cultivar, region, and orchard management."
+    },
+    {
+      "plant_name": "Seethaashoka",
+      "scientific_name": "Often Saraca asoca; verify identity",
+      "availability": {
+        "Highly available": [],
+        "Moderately available": ["Karnataka", "Kerala", "Tamil Nadu", "Maharashtra", "West Bengal"],
+        "Less available": [],
+        "unknown": ["Exact state distribution requires botanical records"]
+      },
+      "seasonality": {
+        "growth": ["Monsoon"],
+        "flowering": ["Often late winter to spring"],
+        "fruiting": ["After flowering; varies by location"],
+        "harvesting": ["Not applicable as a conventional crop"],
+        "year_round_presence": true
+      },
+      "season_notes": "Confirm the species and distinguish planted trees from natural populations."
+    },
+    {
+      "plant_name": "Seethapala",
+      "scientific_name": "Often Annona squamosa; verify identity",
+      "availability": {
+        "Highly available": ["Andhra Pradesh", "Telangana", "Maharashtra", "Karnataka"],
+        "Moderately available": ["Tamil Nadu", "Gujarat", "Madhya Pradesh", "Uttar Pradesh"],
+        "Less available": ["Cold, high-altitude areas"],
+        "unknown": ["Other states pending identification"]
+      },
+      "seasonality": {
+        "growth": ["Monsoon"],
+        "flowering": ["Varies by climate and cultivar"],
+        "fruiting": ["Often late monsoon through autumn in many regions"],
+        "harvesting": ["Season-dependent"],
+        "year_round_presence": true
+      },
+      "season_notes": "Often used for custard apple, but the local identity should be confirmed."
+    },
+    {
+      "plant_name": "Spinach1",
+      "scientific_name": null,
+      "availability": {
+        "Highly available": [],
+        "Moderately available": [],
+        "Less available": [],
+        "unknown": ["All states until the exact species is identified"]
+      },
+      "seasonality": {
+        "growth": ["Unknown"],
+        "flowering": ["Unknown"],
+        "fruiting": ["Unknown"],
+        "harvesting": ["Unknown"],
+        "year_round_presence": null
+      },
+      "season_notes": "Dataset label may refer to a second spinach-like species. Identify it before assigning the same calendar as Palak."
+    },
+    {
+      "plant_name": "Tamarind",
+      "scientific_name": "Tamarindus indica",
+      "availability": {
+        "Highly available": ["Karnataka", "Tamil Nadu", "Andhra Pradesh", "Telangana", "Maharashtra"],
+        "Moderately available": ["Odisha", "Madhya Pradesh", "Gujarat", "Uttar Pradesh", "West Bengal"],
+        "Less available": ["Cold, high-altitude areas"],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Monsoon"],
+        "flowering": ["Spring to summer, depending on region"],
+        "fruiting": ["Often winter to spring, depending on region"],
+        "harvesting": ["After pods mature and dry"],
+        "year_round_presence": true
+      },
+      "season_notes": "Mature trees persist year-round; pod harvesting is seasonal."
+    },
+    {
+      "plant_name": "Taro",
+      "scientific_name": "Colocasia esculenta",
+      "availability": {
+        "Highly available": ["Kerala", "Assam", "Meghalaya", "West Bengal", "Odisha"],
+        "Moderately available": ["Karnataka", "Tamil Nadu", "Andhra Pradesh", "Telangana", "Maharashtra"],
+        "Less available": ["Dry regions without irrigation"],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Monsoon"],
+        "flowering": ["Not usually the main harvest indicator"],
+        "harvesting": ["Varies by variety and planting date"],
+        "year_round_presence": true
+      },
+      "season_notes": "Moisture-demanding cultivation; crop duration varies by variety and local conditions."
+    },
+    {
+      "plant_name": "Tecoma",
+      "scientific_name": "Tecoma species; often Tecoma stans",
+      "availability": {
+        "Highly available": ["Karnataka", "Tamil Nadu", "Maharashtra", "Andhra Pradesh", "Telangana"],
+        "Moderately available": ["Kerala", "Gujarat", "Rajasthan", "Uttar Pradesh"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Spring", "Monsoon"],
+        "flowering": ["Often extended in warm climates"],
+        "fruiting": ["After flowering"],
+        "harvesting": ["Not applicable as a conventional crop"],
+        "year_round_presence": true
+      },
+      "season_notes": "Common ornamental shrub; exact seasonal behavior depends on species and local climate."
+    },
+    {
+      "plant_name": "Thumbe",
+      "scientific_name": "Often Leucas aspera; verify identity",
+      "availability": {
+        "Highly available": ["Karnataka", "Tamil Nadu", "Andhra Pradesh", "Telangana"],
+        "Moderately available": ["Maharashtra", "Kerala", "Odisha"],
+        "Less available": [],
+        "unknown": ["Other states pending identity verification"]
+      },
+      "seasonality": {
+        "growth": ["Monsoon", "Post-monsoon"],
+        "flowering": ["Often during or after the rainy season"],
+        "fruiting": ["After flowering"],
+        "harvesting": ["During active growth"],
+        "year_round_presence": false
+      },
+      "season_notes": "Often an annual or short-lived herb of open habitats; verify the species."
+    },
+    {
+      "plant_name": "Tomato",
+      "scientific_name": "Solanum lycopersicum",
+      "availability": {
+        "Highly available": ["Andhra Pradesh", "Telangana", "Karnataka", "Maharashtra", "Madhya Pradesh"],
+        "Moderately available": ["Tamil Nadu", "Gujarat", "Uttar Pradesh", "West Bengal", "Odisha"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Multiple crop seasons depending on state"],
+        "flowering": ["Varies by planting date"],
+        "fruiting": ["Varies by climate and crop cycle"],
+        "harvesting": ["Often staggered over several weeks"],
+        "year_round_presence": true
+      },
+      "season_notes": "Commercial availability is supported by multiple regional crop cycles."
+    },
+    {
+      "plant_name": "Tulsi",
+      "scientific_name": "Ocimum tenuiflorum",
+      "availability": {
+        "Highly available": ["Karnataka", "Kerala", "Tamil Nadu", "Andhra Pradesh", "Telangana", "Maharashtra"],
+        "Moderately available": ["Uttar Pradesh", "Madhya Pradesh", "West Bengal", "Odisha"],
+        "Less available": ["Cold, high-altitude areas"],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Spring", "Monsoon"],
+        "flowering": ["Often during warm months"],
+        "harvesting": ["Leaves during active growth"],
+        "year_round_presence": true
+      },
+      "season_notes": "Commonly cultivated in home gardens and religious settings; local growing conditions affect growth."
+    },
+    {
+      "plant_name": "Turmeric",
+      "scientific_name": "Curcuma longa",
+      "availability": {
+        "Highly available": ["Telangana", "Andhra Pradesh", "Karnataka", "Tamil Nadu", "Maharashtra", "Odisha"],
+        "Moderately available": ["Kerala", "West Bengal", "Assam", "Meghalaya"],
+        "Less available": [],
+        "unknown": []
+      },
+      "seasonality": {
+        "growth": ["Monsoon", "Post-monsoon"],
+        "flowering": ["Varies by cultivar"],
+        "harvesting": ["Generally several months after planting, often in winter or spring"],
+        "year_round_presence": true
+      },
+      "season_notes": "Rhizome maturity and harvest dates vary by variety and cultivation region."
+    },
+    {
+      "plant_name": "ashoka",
+      "scientific_name": "Often Polyalthia longifolia for ornamental Ashoka; verify identity",
+      "availability": {
+        "Highly available": ["Karnataka", "Tamil Nadu", "Kerala", "Andhra Pradesh", "Telangana"],
+        "Moderately available": ["Maharashtra", "West Bengal", "Odisha", "Gujarat"],
+        "Less available": [],
+        "unknown": ["Exact distribution pending species confirmation"]
+      },
+      "seasonality": {
+        "growth": ["Monsoon"],
+        "flowering": ["Species-dependent"],
+        "fruiting": ["Species-dependent"],
+        "harvesting": ["Not applicable as a conventional crop"],
+        "year_round_presence": true
+      },
+      "season_notes": "The name Ashoka can refer to different trees, including Saraca asoca and Polyalthia longifolia."
+    },
+    {
+      "plant_name": "camphor",
+      "scientific_name": "Cinnamomum camphora or a camphor product",
+      "availability": {
+        "Highly available": [],
+        "Moderately available": ["Karnataka", "Tamil Nadu", "Kerala"],
+        "Less available": [],
+        "unknown": ["All states pending identification of the plant or product"]
+      },
+      "seasonality": {
+        "growth": ["Species-dependent"],
+        "flowering": ["Species-dependent"],
+        "fruiting": ["Species-dependent"],
+        "harvesting": ["Product-dependent"],
+        "year_round_presence": true
+      },
+      "season_notes": "Do not confuse the distribution of a camphor tree with the retail availability of manufactured camphor."
+    },
+    {
+      "plant_name": "kamakasturi",
+      "scientific_name": "Often Ocimum basilicum or another aromatic herb; verify identity",
+      "availability": {
+        "Highly available": [],
+        "Moderately available": ["Karnataka", "Tamil Nadu", "Kerala", "Andhra Pradesh", "Telangana"],
+        "Less available": [],
+        "unknown": ["All states pending identity verification"]
+      },
+      "seasonality": {
+        "growth": ["Warm months", "Monsoon"],
+        "flowering": ["Varies by species"],
+        "harvesting": ["Leaves harvested during active growth"],
+        "year_round_presence": true
+      },
+      "season_notes": "Regional names can refer to different aromatic plants; confirm the species before finalizing this record."
+    },
+    {
+      "plant_name": "kepala",
+      "scientific_name": null,
+      "availability": {
+        "Highly available": [],
+        "Moderately available": [],
+        "Less available": [],
+        "unknown": ["All states"]
+      },
+      "seasonality": {
+        "growth": ["Unknown"],
+        "flowering": ["Unknown"],
+        "fruiting": ["Unknown"],
+        "harvesting": ["Unknown"],
+        "year_round_presence": null
+      },
+      "season_notes": "Requires reliable botanical identification before state and seasonal information can be assigned."
+    }
+  ]
+}

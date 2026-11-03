@@ -1,0 +1,261 @@
+{
+  "id": "plant_ginger_nausea_001",
+  "schema_version": "2.0",
+  "record_type": "plant_symptom_reference",
+
+  "plant": {
+    "dataset_label": "Ginger",
+    "common_names": [
+      "Ginger",
+      "Adrak",
+      "Inji",
+      "Allam",
+      "Shunti"
+    ],
+    "scientific_name": "Zingiber officinale",
+    "scientific_name_verified": true,
+    "identity_confidence": "high",
+    "plant_family": "Zingiberaceae",
+    "plant_parts": [
+      {
+        "part": "rhizome",
+        "plain_language": "The underground stem commonly called ginger root."
+      }
+    ]
+  },
+
+  "search_document": {
+    "title": "Ginger and nausea: traditional use and safety information",
+    "searchable_text": "Ginger, scientifically known as Zingiber officinale, is a common food ingredient called adrak in Hindi, inji in Tamil and Malayalam, allam in Telugu, and shunti in Kannada. Ginger has traditional uses for nausea and digestive discomfort. People may search for this information using phrases such as feeling sick, feeling like vomiting, an upset stomach, queasiness, or stomach discomfort after eating. These phrases can describe different underlying causes, and ginger is not proven to treat every cause. Using ginger in ordinary food is different from taking ginger supplements, concentrated extracts, medicinal powders, or high-dose preparations. Suitability depends on the person's age, pregnancy status, medical conditions, medicines, the preparation used, and symptom severity. This record does not establish a medicinal dose or guarantee a treatment benefit. Persistent vomiting, severe abdominal pain, blood in vomit, or signs of dehydration require medical assessment.",
+    "keywords": [
+      "ginger",
+      "adrak",
+      "inji",
+      "allam",
+      "shunti",
+      "nausea",
+      "queasiness",
+      "feeling sick",
+      "feeling like vomiting",
+      "upset stomach",
+      "digestive discomfort",
+      "stomach discomfort after eating",
+      "traditional herbal use",
+      "food ingredient",
+      "herbal safety",
+      "Ayurveda"
+    ],
+    "query_examples": [
+      "What plant is traditionally used for nausea?",
+      "I feel sick and think I might vomit.",
+      "What does adrak traditionally help with?",
+      "Can ginger help with an upset stomach?",
+      "Is ginger safe to consume?",
+      "What precautions should I know before using ginger?",
+      "What is the difference between eating ginger and taking ginger supplements?"
+    ],
+    "language": "en",
+    "supported_query_languages": [
+      "English",
+      "Hindi",
+      "Telugu",
+      "Kannada",
+      "Tamil",
+      "Malayalam"
+    ]
+  },
+
+  "symptom_matching": {
+    "symptoms": [
+      {
+        "id": "nausea",
+        "canonical_name": "Nausea",
+        "plain_language": "Feeling sick or feeling as though you may vomit.",
+        "synonyms": [
+          "feeling sick",
+          "queasy",
+          "queasiness",
+          "feeling like vomiting",
+          "urge to vomit"
+        ],
+        "match_type": "traditional_use_match",
+        "match_confidence": "not_yet_clinically_assessed"
+      },
+      {
+        "id": "digestive_discomfort",
+        "canonical_name": "Digestive discomfort",
+        "plain_language": "A general feeling of discomfort in the stomach or digestive system.",
+        "synonyms": [
+          "upset stomach",
+          "stomach discomfort",
+          "uncomfortable stomach after eating",
+          "digestive upset"
+        ],
+        "match_type": "broad_symptom_match",
+        "match_confidence": "not_yet_clinically_assessed"
+      }
+    ],
+    "excluded_inferences": [
+      "Do not infer the cause of nausea from the symptom alone.",
+      "Do not assume that nausea after eating is indigestion.",
+      "Do not infer pregnancy, food poisoning, infection, or another diagnosis from a semantic match.",
+      "Do not treat similarity score as proof of clinical effectiveness."
+    ]
+  },
+
+  "traditional_use": {
+    "summary": "Ginger has a history of traditional use for nausea and digestive discomfort.",
+    "indications": [
+      "Nausea",
+      "Digestive discomfort"
+    ],
+    "evidence_status": "requires_indication_specific_review",
+    "clinical_effectiveness_claim": false,
+    "claim_limitations": "Traditional use does not establish that ginger will help every cause of nausea or digestive discomfort."
+  },
+
+  "preparation": [
+    {
+      "preparation_type": "ordinary_food",
+      "plain_language": "Fresh ginger or ginger used as an ingredient in a normal meal.",
+      "use_guidance": "May be suitable as food for people who tolerate it.",
+      "medicinal_dose_verified": false
+    },
+    {
+      "preparation_type": "tea_or_infusion",
+      "plain_language": "Ginger steeped in hot water.",
+      "use_guidance": "Do not assume that a tea is an effective treatment or that all recipes have the same strength.",
+      "medicinal_dose_verified": false
+    },
+    {
+      "preparation_type": "powder_supplement_or_extract",
+      "plain_language": "Concentrated ginger products, powders, capsules, or extracts.",
+      "use_guidance": "Requires product-specific safety and dosing review.",
+      "medicinal_dose_verified": false
+    }
+  ],
+
+  "dosage": {
+    "status": "not_verified",
+    "amount": null,
+    "unit": null,
+    "route": null,
+    "frequency": null,
+    "duration": null,
+    "age_specific_dosing_available": false,
+    "source_url": null,
+    "instruction": "Do not invent or calculate a medicinal dose from age alone. Verify the exact preparation, indication, age group, and authoritative source before displaying a dose."
+  },
+
+  "age_safety": {
+    "under_1_year": {
+      "medicinal_use": "requires_clinician",
+      "dose": null
+    },
+    "1_to_11_years": {
+      "medicinal_use": "requires_pediatric_clinician",
+      "dose": null
+    },
+    "12_to_17_years": {
+      "medicinal_use": "requires_age_specific_safety_review",
+      "dose": null
+    },
+    "18_to_59_years": {
+      "medicinal_use": "requires_preparation_specific_safety_review",
+      "dose": null
+    },
+    "60_years_and_over": {
+      "medicinal_use": "review_medical_conditions_and_medicines",
+      "dose": null
+    },
+    "pregnancy": {
+      "medicinal_use": "requires_clinician_guidance",
+      "dose": null
+    },
+    "breastfeeding": {
+      "medicinal_use": "requires_clinician_guidance",
+      "dose": null
+    }
+  },
+
+  "safety": {
+    "contraindications": [
+      "Check for allergy or intolerance.",
+      "Assess the specific preparation and the person's health conditions."
+    ],
+    "potential_interactions": [
+      "Review blood-thinning medicines and other medicines when considering concentrated or medicinal preparations."
+    ],
+    "high_risk_groups": [
+      "People taking medicines that may interact with ginger preparations",
+      "People with significant chronic illness",
+      "Children being considered for medicinal preparations",
+      "Pregnant or breastfeeding people considering supplements or medicinal doses"
+    ],
+    "emergency_symptoms": [
+      "Persistent vomiting",
+      "Severe abdominal pain",
+      "Blood in vomit",
+      "Signs of dehydration"
+    ],
+    "emergency_action": "Seek prompt medical assessment when warning signs are present.",
+    "recommendation_blocked": false,
+    "safety_review_status": "requires_professional_review"
+  },
+
+  "availability": {
+    "country": "India",
+    "states": [],
+    "availability_status": "unknown_until_verified",
+    "availability_type": null,
+    "seasonality": null,
+    "source_url": null,
+    "last_verified": null,
+    "note": "Verify local cultivation, market availability, and seasonal supply separately."
+  },
+
+  "retrieval_metadata": {
+    "embedding_text_field": "search_document.searchable_text",
+    "filter_fields": [
+      "record_type",
+      "plant.scientific_name",
+      "symptom_matching.symptoms.id",
+      "traditional_use.evidence_status",
+      "safety.recommendation_blocked",
+      "safety.safety_review_status",
+      "availability.availability_status"
+    ],
+    "keyword_search_fields": [
+      "search_document.keywords",
+      "search_document.query_examples",
+      "symptom_matching.symptoms.canonical_name",
+      "symptom_matching.symptoms.synonyms",
+      "plant.common_names"
+    ],
+    "embedding_model": null,
+    "embedding_vector": null,
+    "similarity_metric": "cosine",
+    "minimum_similarity_threshold": null,
+    "threshold_calibration_status": "requires_evaluation",
+    "reranking_required": true,
+    "safety_filter_required": true
+  },
+
+  "sources": [
+    {
+      "source_name": "NCCIH: Ayurvedic Medicine - In Depth",
+      "url": "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth",
+      "source_purpose": "General context about Ayurvedic medicine and safety.",
+      "supports_specific_ginger_claim": false
+    }
+  ],
+
+  "review": {
+    "content_status": "draft_for_review",
+    "scientific_reviewed": false,
+    "clinical_reviewed": false,
+    "safety_reviewed": false,
+    "last_reviewed": null,
+    "reviewer": null
+  }
+}

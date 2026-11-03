@@ -1,0 +1,1269 @@
+{
+  "metadata": {
+    "title": "Plant Toxicity and Safety Guide",
+    "version": "1.0",
+    "purpose": "Help the general public understand plant toxicity, exposure risks, symptoms, first aid, and prevention.",
+    "language": "English",
+    "audience": "General public",
+    "toxicity_levels": {
+      "Critical": "Potentially life-threatening poisoning or severe injury may occur. Urgent professional advice may be necessary.",
+      "High": "Serious poisoning or injury is possible under certain exposure conditions.",
+      "Moderate": "Harmful effects are possible depending on the plant part, amount, and exposure route.",
+      "Low": "Risk is generally limited under specified conditions, but some plant parts or preparations may still be harmful.",
+      "Unknown": "The plant identity or available evidence is insufficient to assess its toxicity reliably."
+    },
+    "general_safety_rules": [
+      "Never eat an unidentified plant.",
+      "Do not assume a plant is safe because it is natural or traditionally used.",
+      "Avoid touching plant sap, seeds, or unfamiliar plant material unnecessarily.",
+      "Wash hands after handling unfamiliar plants.",
+      "Avoid rubbing eyes after handling plants.",
+      "Ordinary smelling of an intact plant is different from inhaling concentrated oils, smoke, or dust.",
+      "Keep potentially toxic plants and seeds away from children and pets.",
+      "Do not induce vomiting after suspected plant poisoning unless a medical professional specifically instructs you to do so.",
+      "For suspected poisoning, contact a medical professional or poison information service promptly.",
+      "Seek emergency care for breathing difficulty, seizures, fainting, severe confusion, or other serious symptoms."
+    ],
+    "first_aid_guidance": {
+      "skin_contact": "Remove contaminated clothing if necessary and wash the affected skin with soap and water. Seek medical advice if irritation is severe or persists.",
+      "eye_contact": "Rinse the eye immediately with clean, gently flowing water for 15 to 20 minutes. Seek urgent medical advice, particularly after contact with irritating sap or concentrated oils.",
+      "swallowed_plant": "Remove any remaining plant material from the mouth. Do not induce vomiting or use home remedies. Contact a medical professional or poison information service promptly.",
+      "inhalation": "Move to fresh air if it is safe to do so. Seek urgent medical care if breathing difficulty, persistent coughing, or other serious symptoms occur.",
+      "emergency": "Contact local emergency medical services immediately for seizures, loss of consciousness, breathing difficulty, collapse, or severe symptoms."
+    }
+  },
+  "plants": [
+    {
+      "plant_name": "Castor",
+      "scientific_name": "Ricinus communis",
+      "identification_confidence": "High",
+      "toxicity_level": "Critical",
+      "short_warning": "Castor seeds contain ricin, a highly toxic protein.",
+      "why_it_is_harmful": "Ricin can interfere with the body's ability to make proteins and can damage cells and organs.",
+      "dangerous_parts": [
+        "Seeds"
+      ],
+      "toxic_compounds": [
+        "Ricin"
+      ],
+      "exposure_safety": {
+        "eating": {
+          "risk": "Critical",
+          "advice": "Never eat castor seeds. Chewed or crushed seeds can cause serious poisoning."
+        },
+        "skin_contact": {
+          "risk": "Caution",
+          "advice": "Avoid crushing seeds or handling damaged plant material unnecessarily. Wash hands after contact."
+        },
+        "eye_contact": {
+          "risk": "Caution",
+          "advice": "Avoid transferring plant material to the eyes. Rinse immediately if exposure occurs."
+        },
+        "smelling": {
+          "risk": "Usually low for an intact plant",
+          "advice": "Ordinary smelling is not the usual poisoning route. Avoid inhaling dust produced by crushing or grinding seeds."
+        }
+      },
+      "possible_symptoms": [
+        "Abdominal pain",
+        "Vomiting",
+        "Diarrhea",
+        "Dehydration",
+        "Severe organ damage in serious cases"
+      ],
+      "what_to_do": [
+        "Seek urgent medical or poison-control advice if seeds are swallowed.",
+        "Do not wait for symptoms to appear.",
+        "Do not induce vomiting."
+      ],
+      "prevention": [
+        "Keep seeds away from children and pets.",
+        "Do not crush or chew the seeds.",
+        "Wash hands after handling plant material."
+      ],
+      "important_note": "The risk depends on whether seeds were chewed, the amount swallowed, and other exposure circumstances."
+    },
+    {
+      "plant_name": "Ekka",
+      "scientific_name": "Calotropis species",
+      "identification_confidence": "Medium",
+      "toxicity_level": "High",
+      "short_warning": "The milky sap can irritate skin and eyes, and swallowing plant material can be dangerous.",
+      "why_it_is_harmful": "Calotropis plants contain irritating latex and biologically active cardiac glycosides that can affect the digestive system and heart.",
+      "dangerous_parts": [
+        "Milky sap",
+        "Leaves",
+        "Stems",
+        "Flowers",
+        "Other plant parts if swallowed"
+      ],
+      "toxic_compounds": [
+        "Cardiac glycosides",
+        "Irritating latex constituents"
+      ],
+      "exposure_safety": {
+        "eating": {
+          "risk": "High",
+          "advice": "Do not eat the leaves, flowers, stems, or sap. Seek medical advice promptly after swallowing any part."
+        },
+        "skin_contact": {
+          "risk": "Moderate",
+          "advice": "Avoid direct contact with milky sap. Wash exposed skin with soap and water."
+        },
+        "eye_contact": {
+          "risk": "High",
+          "advice": "Sap can cause serious eye irritation or injury. Rinse with clean running water for 15 to 20 minutes and seek urgent medical care."
+        },
+        "smelling": {
+          "risk": "Usually low for ordinary exposure",
+          "advice": "Smelling an intact flower is not equivalent to swallowing sap. Avoid inhaling spray or particles from cutting or processing the plant."
+        }
+      },
+      "possible_symptoms": [
+        "Skin irritation",
+        "Eye pain",
+        "Redness",
+        "Vomiting",
+        "Abdominal discomfort",
+        "Potential heart rhythm disturbances after significant ingestion"
+      ],
+      "what_to_do": [
+        "Wash exposed skin thoroughly.",
+        "Rinse eyes immediately after sap exposure and seek urgent medical advice.",
+        "Seek prompt medical assessment after swallowing plant material.",
+        "Seek emergency care for fainting, breathing difficulty, severe vomiting, or an abnormal heartbeat."
+      ],
+      "prevention": [
+        "Avoid contact with milky sap.",
+        "Do not rub the eyes after handling the plant.",
+        "Keep plant parts away from children and pets."
+      ],
+      "important_note": "Confirm the exact Calotropis species where possible. Toxicity depends on the part and amount involved."
+    },
+    {
+      "plant_name": "Arali",
+      "scientific_name": null,
+      "identification_confidence": "Low",
+      "toxicity_level": "Unknown",
+      "short_warning": "The local name may refer to different plants. Confirm the species before assigning a toxicity level.",
+      "why_it_is_harmful": "If the plant is oleander, it contains cardiac glycosides that can disrupt heart function. The local name alone is not sufficient to confirm this identification.",
+      "dangerous_parts": [],
+      "toxic_compounds": [],
+      "exposure_safety": {
+        "eating": {
+          "risk": "Unknown",
+          "advice": "Do not eat any part until the plant has been reliably identified."
+        },
+        "skin_contact": {
+          "risk": "Unknown",
+          "advice": "Avoid unnecessary contact with unidentified plant sap. Wash hands after handling."
+        },
+        "eye_contact": {
+          "risk": "Unknown",
+          "advice": "Avoid eye contact. Rinse immediately if sap or plant material enters the eyes."
+        },
+        "smelling": {
+          "risk": "Unknown",
+          "advice": "Do not assume toxicity from the local name alone. Avoid inhaling smoke from burning plant material."
+        }
+      },
+      "possible_symptoms": [],
+      "what_to_do": [
+        "Obtain reliable botanical identification.",
+        "Do not consume the plant while identification is uncertain.",
+        "Seek prompt medical advice after suspected ingestion."
+      ],
+      "prevention": [
+        "Photograph the leaves, flowers, and stem for identification.",
+        "Do not assign species-specific warnings based only on a regional name."
+      ],
+      "important_note": "If confirmed as Nerium oleander, reassess this record using verified oleander toxicology information."
+    },
+    {
+      "plant_name": "Camphor",
+      "scientific_name": "Cinnamomum camphora or a camphor-containing product",
+      "identification_confidence": "Medium",
+      "toxicity_level": "High",
+      "short_warning": "Swallowing camphor or concentrated camphor products can cause severe poisoning and seizures.",
+      "why_it_is_harmful": "Camphor can affect the brain and nervous system, potentially causing agitation, confusion, and seizures.",
+      "dangerous_parts": [
+        "Camphor crystals",
+        "Concentrated camphor oil",
+        "Camphor-containing products"
+      ],
+      "toxic_compounds": [
+        "Camphor"
+      ],
+      "exposure_safety": {
+        "eating": {
+          "risk": "High",
+          "advice": "Never swallow camphor crystals or camphor-containing products. Keep them away from children."
+        },
+        "skin_contact": {
+          "risk": "Moderate",
+          "advice": "Concentrated products can irritate skin. Follow product safety instructions and wash off accidental exposure."
+        },
+        "eye_contact": {
+          "risk": "Moderate",
+          "advice": "Avoid contact with camphor oils and products. Rinse the eyes with clean running water for 15 to 20 minutes."
+        },
+        "smelling": {
+          "risk": "Exposure-dependent",
+          "advice": "Avoid prolonged exposure to concentrated vapours, especially in poorly ventilated spaces. Ordinary brief exposure is not the same as swallowing camphor."
+        }
+      },
+      "possible_symptoms": [
+        "Nausea",
+        "Vomiting",
+        "Agitation",
+        "Confusion",
+        "Seizures"
+      ],
+      "what_to_do": [
+        "Seek urgent medical or poison-control advice after swallowing camphor.",
+        "Do not induce vomiting.",
+        "Call emergency services if seizures, confusion, or breathing problems occur."
+      ],
+      "prevention": [
+        "Store camphor securely.",
+        "Do not use camphor products internally unless explicitly approved by a qualified medical professional."
+      ],
+      "important_note": "A plant and a manufactured camphor product are not interchangeable records. Verify the source and product formulation."
+    },
+    {
+      "plant_name": "Eucalyptus",
+      "scientific_name": "Eucalyptus species",
+      "identification_confidence": "Medium",
+      "toxicity_level": "High",
+      "short_warning": "Concentrated eucalyptus oil can cause serious poisoning if swallowed.",
+      "why_it_is_harmful": "Concentrated eucalyptus oil contains compounds such as 1,8-cineole that can affect the nervous system and cause seizures.",
+      "dangerous_parts": [
+        "Concentrated essential oil",
+        "Plant material if swallowed"
+      ],
+      "toxic_compounds": [
+        "1,8-cineole",
+        "Other volatile oil constituents"
+      ],
+      "exposure_safety": {
+        "eating": {
+          "risk": "High for concentrated oil",
+          "advice": "Never swallow eucalyptus essential oil. Do not consume leaves as a home remedy without qualified advice."
+        },
+        "skin_contact": {
+          "risk": "Moderate for concentrated oil",
+          "advice": "Avoid direct contact with concentrated oil. Wash exposed skin and seek advice if irritation occurs."
+        },
+        "eye_contact": {
+          "risk": "Moderate",
+          "advice": "Rinse immediately with clean running water for 15 to 20 minutes if oil enters the eyes."
+        },
+        "smelling": {
+          "risk": "Usually low for an intact tree; higher with concentrated vapours",
+          "advice": "Ordinary smelling of a tree is not equivalent to swallowing essential oil. Avoid strong vapours if they cause irritation or breathing symptoms."
+        }
+      },
+      "possible_symptoms": [
+        "Nausea",
+        "Vomiting",
+        "Drowsiness",
+        "Confusion",
+        "Seizures",
+        "Breathing problems in severe cases"
+      ],
+      "what_to_do": [
+        "Seek urgent medical advice after swallowing eucalyptus oil.",
+        "Do not induce vomiting.",
+        "Seek emergency care for seizures, severe drowsiness, or breathing difficulty."
+      ],
+      "prevention": [
+        "Keep essential oils away from children.",
+        "Do not swallow concentrated oils.",
+        "Use products according to their safety instructions."
+      ],
+      "important_note": "The risks from concentrated oil differ substantially from those associated with simply being near an intact eucalyptus tree."
+    },
+    {
+      "plant_name": "Catharanthus",
+      "scientific_name": "Catharanthus roseus",
+      "identification_confidence": "High",
+      "toxicity_level": "Moderate",
+      "short_warning": "This ornamental plant contains potent alkaloids and should not be eaten.",
+      "why_it_is_harmful": "The plant contains alkaloids that affect cell processes. Related compounds have important medical uses under controlled conditions, but the plant itself is not safe for self-medication.",
+      "dangerous_parts": [
+        "Leaves",
+        "Stems",
+        "Roots",
+        "Flowers"
+      ],
+      "toxic_compounds": [
+        "Indole alkaloids",
+        "Vincristine-related alkaloids",
+        "Vinblastine-related alkaloids"
+      ],
+      "exposure_safety": {
+        "eating": {
+          "risk": "Moderate; exact risk depends on amount and plant part",
+          "advice": "Do not eat any part or prepare it as a home remedy. Contact a medical professional if swallowed."
+        },
+        "skin_contact": {
+          "risk": "Usually low for ordinary contact",
+          "advice": "Avoid unnecessary handling and wash hands afterward. Stop contact if irritation occurs."
+        },
+        "eye_contact": {
+          "risk": "Caution",
+          "advice": "Rinse with clean running water if plant material enters the eyes."
+        },
+        "smelling": {
+          "risk": "Usually low for ordinary exposure",
+          "advice": "Smelling the intact plant is not a usual poisoning route. Avoid inhaling smoke from burning plant material."
+        }
+      },
+      "possible_symptoms": [
+        "Nausea",
+        "Vomiting",
+        "Abdominal discomfort",
+        "Other effects depending on the amount consumed"
+      ],
+      "what_to_do": [
+        "Seek medical advice after ingestion.",
+        "Do not use the plant to self-treat disease.",
+        "Seek urgent help if severe symptoms occur."
+      ],
+      "prevention": [
+        "Do not consume ornamental plants.",
+        "Keep plant material away from children and pets."
+      ],
+      "important_note": "The toxicity of an accidental exposure should not be equated directly with the risks of purified medicines derived from related compounds."
+    },
+    {
+      "plant_name": "Lantana",
+      "scientific_name": "Lantana camara",
+      "identification_confidence": "Medium",
+      "toxicity_level": "Moderate",
+      "short_warning": "Lantana can be toxic, and unripe berries should not be eaten.",
+      "why_it_is_harmful": "Lantana contains triterpenoids that can damage the liver. Serious toxicity is particularly well documented in grazing animals.",
+      "dangerous_parts": [
+        "Leaves",
+        "Unripe berries",
+        "Other plant parts if swallowed"
+      ],
+      "toxic_compounds": [
+        "Lantadene triterpenoids"
+      ],
+      "exposure_safety": {
+        "eating": {
+          "risk": "Moderate; species and amount matter",
+          "advice": "Do not eat the berries or other plant parts. Seek advice if swallowed."
+        },
+        "skin_contact": {
+          "risk": "Low to moderate",
+          "advice": "Some people develop irritation after contact. Wash hands and exposed skin."
+        },
+        "eye_contact": {
+          "risk": "Caution",
+          "advice": "Avoid rubbing the eyes after contact. Rinse with clean running water if exposure occurs."
+        },
+        "smelling": {
+          "risk": "Usually low for ordinary exposure",
+          "advice": "The normal smell of the plant is not a typical poisoning route. Avoid inhaling smoke from burning it."
+        }
+      },
+      "possible_symptoms": [
+        "Nausea",
+        "Vomiting",
+        "Digestive discomfort",
+        "Potential liver injury after significant ingestion"
+      ],
+      "what_to_do": [
+        "Seek medical advice after ingestion.",
+        "Seek urgent care for persistent vomiting, jaundice, or severe symptoms."
+      ],
+      "prevention": [
+        "Do not eat wild berries.",
+        "Keep children and pets away from berries and leaves."
+      ],
+      "important_note": "Human toxicity evidence and risk may differ from the well-established effects in livestock."
+    },
+    {
+      "plant_name": "Common rue (Naagdalli)",
+      "scientific_name": "Ruta graveolens",
+      "identification_confidence": "Low",
+      "toxicity_level": "Unknown",
+      "short_warning": "Confirm the botanical identity before applying rue-specific safety warnings.",
+      "why_it_is_harmful": "If confirmed as Ruta graveolens, its compounds can cause skin sensitivity to sunlight, and ingestion may cause adverse effects.",
+      "dangerous_parts": [
+        "Leaves",
+        "Sap",
+        "Concentrated preparations"
+      ],
+      "toxic_compounds": [
+        "Furanocoumarins",
+        "Other biologically active compounds"
+      ],
+      "exposure_safety": {
+        "eating": {
+          "risk": "Unknown until identified",
+          "advice": "Do not consume an unidentified plant or its extracts."
+        },
+        "skin_contact": {
+          "risk": "Potentially high for confirmed rue under sunlight",
+          "advice": "If the plant is confirmed as rue, avoid sap contact and sun exposure on contaminated skin. Wash the area thoroughly."
+        },
+        "eye_contact": {
+          "risk": "Unknown until identified",
+          "advice": "Rinse immediately if sap enters the eyes and seek medical advice if irritation persists."
+        },
+        "smelling": {
+          "risk": "Unknown until identified",
+          "advice": "Avoid inhaling concentrated vapours or smoke."
+        }
+      },
+      "possible_symptoms": [
+        "Skin redness",
+        "Blistering after sunlight exposure",
+        "Digestive symptoms after ingestion"
+      ],
+      "what_to_do": [
+        "Confirm the botanical species.",
+        "Wash exposed skin promptly.",
+        "Seek medical advice after ingestion or severe skin reactions."
+      ],
+      "prevention": [
+        "Avoid handling unidentified plants unnecessarily.",
+        "Do not use concentrated plant extracts as home remedies."
+      ],
+      "important_note": "The scientific name and exposure guidance require confirmation because regional names can refer to different species."
+    },
+    {
+      "plant_name": "Neem",
+      "scientific_name": "Azadirachta indica",
+      "identification_confidence": "High",
+      "toxicity_level": "High for neem oil ingestion",
+      "short_warning": "Neem oil can cause serious poisoning, especially in children.",
+      "why_it_is_harmful": "Neem oil contains biologically active compounds that can affect the nervous system and other organs when swallowed.",
+      "dangerous_parts": [
+        "Concentrated neem oil",
+        "Concentrated preparations"
+      ],
+      "toxic_compounds": [
+        "Azadirachtin",
+        "Other neem oil constituents"
+      ],
+      "exposure_safety": {
+        "eating": {
+          "risk": "High for neem oil; other preparations vary",
+          "advice": "Never swallow neem oil. Seek urgent medical advice after accidental ingestion."
+        },
+        "skin_contact": {
+          "risk": "Usually low to moderate, depending on preparation",
+          "advice": "Avoid contact with concentrated products. Wash exposed skin if irritation occurs."
+        },
+        "eye_contact": {
+          "risk": "Caution",
+          "advice": "Rinse immediately with clean running water if oil or plant material enters the eyes."
+        },
+        "smelling": {
+          "risk": "Usually low for ordinary exposure",
+          "advice": "Avoid inhaling concentrated sprays or vapours."
+        }
+      },
+      "possible_symptoms": [
+        "Vomiting",
+        "Drowsiness",
+        "Seizures in serious cases",
+        "Other neurological or systemic effects"
+      ],
+      "what_to_do": [
+        "Seek urgent medical or poison-control advice after neem oil ingestion.",
+        "Do not induce vomiting.",
+        "Seek emergency care for seizures, altered consciousness, or breathing difficulty."
+      ],
+      "prevention": [
+        "Keep neem oil away from children.",
+        "Do not swallow concentrated preparations.",
+        "Use topical products only according to their instructions."
+      ],
+      "important_note": "The safety of traditional or topical uses should not be generalized to swallowed neem oil."
+    },
+    {
+      "plant_name": "Taro",
+      "scientific_name": "Colocasia esculenta",
+      "identification_confidence": "Medium",
+      "toxicity_level": "Low to Moderate when improperly prepared",
+      "short_warning": "Raw or inadequately cooked taro can irritate the mouth and throat.",
+      "why_it_is_harmful": "Taro contains calcium oxalate crystals that can cause a stinging or burning sensation when raw or insufficiently cooked.",
+      "dangerous_parts": [
+        "Raw or inadequately cooked corms",
+        "Leaves and stems if improperly prepared"
+      ],
+      "toxic_compounds": [
+        "Calcium oxalate crystals"
+      ],
+      "exposure_safety": {
+        "eating": {
+          "risk": "Moderate when raw or inadequately cooked",
+          "advice": "Do not eat taro raw. Prepare it thoroughly using an appropriate cooking method."
+        },
+        "skin_contact": {
+          "risk": "Low to moderate",
+          "advice": "Raw plant material may irritate sensitive skin. Wash hands after handling."
+        },
+        "eye_contact": {
+          "risk": "Caution",
+          "advice": "Avoid rubbing the eyes after handling raw plant material. Rinse with clean running water if exposed."
+        },
+        "smelling": {
+          "risk": "Usually low",
+          "advice": "Ordinary smelling is not a typical poisoning route."
+        }
+      },
+      "possible_symptoms": [
+        "Burning or stinging in the mouth",
+        "Lip irritation",
+        "Throat discomfort",
+        "Swelling or difficulty swallowing in serious cases"
+      ],
+      "what_to_do": [
+        "Stop eating if burning or irritation occurs.",
+        "Rinse the mouth gently with water.",
+        "Seek urgent medical care for throat swelling or difficulty breathing or swallowing."
+      ],
+      "prevention": [
+        "Cook taro thoroughly.",
+        "Do not eat unidentified wild taro-like plants."
+      ],
+      "important_note": "Properly identified and appropriately cooked taro is a common food. Do not label all prepared taro as poisonous."
+    },
+    {
+      "plant_name": "Tomato",
+      "scientific_name": "Solanum lycopersicum",
+      "identification_confidence": "High",
+      "toxicity_level": "Low for ripe fruit; higher concern for green parts",
+      "short_warning": "Ripe tomatoes are commonly eaten, but leaves, stems, and certain unripe parts should not be consumed in quantity.",
+      "why_it_is_harmful": "Tomato plants contain glycoalkaloids, including tomatine, especially in green plant tissues. Large exposures may cause adverse effects.",
+      "dangerous_parts": [
+        "Leaves",
+        "Stems",
+        "Large amounts of green plant material"
+      ],
+      "toxic_compounds": [
+        "Tomatine",
+        "Related glycoalkaloids"
+      ],
+      "exposure_safety": {
+        "eating": {
+          "risk": "Low for ripe fruit",
+          "advice": "Ripe tomatoes are generally safe to eat as food. Avoid eating tomato leaves and stems or large amounts of green plant material."
+        },
+        "skin_contact": {
+          "risk": "Usually low",
+          "advice": "Ordinary handling is generally safe. Wash hands if irritation occurs."
+        },
+        "eye_contact": {
+          "risk": "Usually low; irritation is possible",
+          "advice": "Rinse the eyes with clean water if plant sap or debris enters them."
+        },
+        "smelling": {
+          "risk": "Low for ordinary exposure",
+          "advice": "The normal smell of the plant is not a typical poisoning route."
+        }
+      },
+      "possible_symptoms": [
+        "Digestive discomfort",
+        "Nausea",
+        "Vomiting after substantial ingestion"
+      ],
+      "what_to_do": [
+        "Seek medical advice if a large amount of leaves or green plant material is swallowed.",
+        "Seek urgent care for severe or persistent symptoms."
+      ],
+      "prevention": [
+        "Eat tomatoes prepared as food.",
+        "Do not use tomato leaves as food or herbal medicine."
+      ],
+      "important_note": "Do not describe ordinary consumption of ripe tomatoes as poisonous."
+    },
+    {
+      "plant_name": "Beans",
+      "scientific_name": null,
+      "identification_confidence": "Low",
+      "toxicity_level": "Unknown; potentially High for raw kidney beans",
+      "short_warning": "Some beans are dangerous when raw or undercooked.",
+      "why_it_is_harmful": "Raw or inadequately cooked kidney beans can contain phytohaemagglutinin, a lectin that can cause acute digestive illness.",
+      "dangerous_parts": [
+        "Raw or inadequately cooked beans of susceptible species"
+      ],
+      "toxic_compounds": [
+        "Phytohaemagglutinin in certain beans"
+      ],
+      "exposure_safety": {
+        "eating": {
+          "risk": "Potentially high for raw or undercooked kidney beans",
+          "advice": "Identify the bean species and follow reliable cooking instructions. Never eat raw kidney beans."
+        },
+        "skin_contact": {
+          "risk": "Usually low",
+          "advice": "Ordinary handling is generally safe. Wash hands after handling."
+        },
+        "eye_contact": {
+          "risk": "Usually low",
+          "advice": "Avoid rubbing eyes after handling plant material."
+        },
+        "smelling": {
+          "risk": "Usually low",
+          "advice": "Ordinary smelling is not a typical poisoning route."
+        }
+      },
+      "possible_symptoms": [
+        "Nausea",
+        "Vomiting",
+        "Abdominal pain",
+        "Diarrhea"
+      ],
+      "what_to_do": [
+        "Seek medical advice after eating raw or inadequately cooked kidney beans if symptoms develop or exposure is substantial.",
+        "Seek urgent care for severe dehydration or persistent vomiting."
+      ],
+      "prevention": [
+        "Identify the bean species.",
+        "Cook susceptible beans thoroughly according to trusted food-safety instructions."
+      ],
+      "important_note": "The generic name Beans covers many species with different safety profiles. Do not apply kidney-bean warnings to every bean species."
+    },
+    {
+      "plant_name": "Bamboo",
+      "scientific_name": "Bambusoideae species",
+      "identification_confidence": "Medium",
+      "toxicity_level": "Low to Moderate depending on species and preparation",
+      "short_warning": "Some raw bamboo shoots contain cyanogenic compounds and require proper preparation.",
+      "why_it_is_harmful": "Certain bamboo shoots contain compounds that can release cyanide if not appropriately processed and cooked.",
+      "dangerous_parts": [
+        "Raw or improperly prepared shoots of susceptible species"
+      ],
+      "toxic_compounds": [
+        "Cyanogenic glycosides in certain species"
+      ],
+      "exposure_safety": {
+        "eating": {
+          "risk": "Species- and preparation-dependent",
+          "advice": "Do not eat raw wild bamboo shoots. Use a reliable preparation method suitable for the identified species."
+        },
+        "skin_contact": {
+          "risk": "Usually low",
+          "advice": "Avoid injury from sharp plant surfaces and wash hands after handling."
+        },
+        "eye_contact": {
+          "risk": "Usually low",
+          "advice": "Avoid contact with plant debris and rinse the eyes if exposed."
+        },
+        "smelling": {
+          "risk": "Usually low for intact bamboo",
+          "advice": "Ordinary smelling is not a typical poisoning route."
+        }
+      },
+      "possible_symptoms": [
+        "Nausea",
+        "Vomiting",
+        "Abdominal pain",
+        "Potential serious systemic symptoms in severe cyanide poisoning"
+      ],
+      "what_to_do": [
+        "Seek urgent medical advice after eating raw or improperly prepared shoots if poisoning is suspected.",
+        "Call emergency services for breathing difficulty, collapse, or confusion."
+      ],
+      "prevention": [
+        "Identify the bamboo species.",
+        "Follow established food-preparation guidance.",
+        "Do not assume all bamboo shoots are safe raw."
+      ],
+      "important_note": "Risk varies considerably by species and preparation."
+    },
+    {
+      "plant_name": "Seethapala",
+      "scientific_name": null,
+      "identification_confidence": "Low",
+      "toxicity_level": "Unknown",
+      "short_warning": "Confirm the local plant name and species before assigning a toxicity rating.",
+      "why_it_is_harmful": "If the intended plant is Annona squamosa, its seeds and some other plant parts contain biologically active compounds. This identification must be verified.",
+      "dangerous_parts": [],
+      "toxic_compounds": [],
+      "exposure_safety": {
+        "eating": {
+          "risk": "Unknown until identified",
+          "advice": "Do not eat unidentified plant parts or seeds. For confirmed custard apple, do not chew or eat the seeds."
+        },
+        "skin_contact": {
+          "risk": "Unknown until identified",
+          "advice": "Avoid unnecessary contact with unidentified sap or crushed seeds."
+        },
+        "eye_contact": {
+          "risk": "Unknown until identified",
+          "advice": "Rinse immediately if sap or plant material enters the eyes."
+        },
+        "smelling": {
+          "risk": "Unknown until identified",
+          "advice": "Do not infer toxicity from smell alone."
+        }
+      },
+      "possible_symptoms": [],
+      "what_to_do": [
+        "Confirm the botanical identity.",
+        "Seek medical advice if unidentified seeds or plant material are swallowed."
+      ],
+      "prevention": [
+        "Do not chew seeds.",
+        "Keep unidentified plant material away from children."
+      ],
+      "important_note": "Do not infer the species or toxicity profile from the regional name alone."
+    },
+    {
+      "plant_name": "Chilly",
+      "scientific_name": "Capsicum species",
+      "identification_confidence": "Medium",
+      "toxicity_level": "Low to Moderate; strong irritation is possible",
+      "short_warning": "Chilli can irritate the skin, eyes, mouth, and respiratory tract.",
+      "why_it_is_harmful": "Capsaicin activates sensory nerves that produce burning and pain. It is an irritant rather than a typical systemic plant poison at ordinary food exposures.",
+      "dangerous_parts": [
+        "Fruits",
+        "Seeds and internal fruit tissues contaminated with capsaicin",
+        "Concentrated extracts"
+      ],
+      "toxic_compounds": [
+        "Capsaicin",
+        "Related capsaicinoids"
+      ],
+      "exposure_safety": {
+        "eating": {
+          "risk": "Usually low as food; irritation can be intense",
+          "advice": "Avoid eating chilli that causes severe discomfort. Seek help for severe or persistent symptoms."
+        },
+        "skin_contact": {
+          "risk": "Moderate",
+          "advice": "Avoid touching your face after handling chilli. Wash hands thoroughly with soap and water."
+        },
+        "eye_contact": {
+          "risk": "High for intense irritation",
+          "advice": "Rinse with clean running water for 15 to 20 minutes. Remove contact lenses if easily possible and seek medical advice if pain persists."
+        },
+        "smelling": {
+          "risk": "Exposure-dependent",
+          "advice": "Ordinary smelling of a chilli is not the usual risk. Avoid inhaling chilli powder, cooking fumes, or aerosolized extracts."
+        }
+      },
+      "possible_symptoms": [
+        "Burning in the mouth",
+        "Skin burning",
+        "Eye pain and tearing",
+        "Coughing",
+        "Respiratory irritation"
+      ],
+      "what_to_do": [
+        "Wash exposed skin with soap and water.",
+        "Rinse exposed eyes immediately.",
+        "Move to fresh air after inhaling irritating dust or fumes.",
+        "Seek medical attention for persistent eye pain or breathing difficulty."
+      ],
+      "prevention": [
+        "Avoid touching the eyes after handling chilli.",
+        "Wash hands and utensils after preparation.",
+        "Avoid inhaling chilli powder."
+      ],
+      "important_note": "Ordinary culinary exposure differs from concentrated capsaicin extracts and aerosol exposure."
+    },
+    {
+      "plant_name": "Aloe vera",
+      "scientific_name": "Aloe vera",
+      "identification_confidence": "High",
+      "toxicity_level": "Moderate for oral latex; preparation-dependent",
+      "short_warning": "The yellow latex beneath the leaf skin can cause severe diarrhea and dehydration if swallowed.",
+      "why_it_is_harmful": "Aloe latex contains anthraquinone compounds, including aloin, which have laxative effects and can cause fluid and electrolyte loss.",
+      "dangerous_parts": [
+        "Yellow leaf latex",
+        "Unprocessed whole-leaf preparations"
+      ],
+      "toxic_compounds": [
+        "Aloin",
+        "Other anthraquinones"
+      ],
+      "exposure_safety": {
+        "eating": {
+          "risk": "Moderate to high for latex or unprocessed products",
+          "advice": "Do not swallow aloe latex or unprocessed whole-leaf preparations. Use only appropriately prepared products intended for consumption."
+        },
+        "skin_contact": {
+          "risk": "Usually low, but irritation or allergy is possible",
+          "advice": "Stop use and wash the skin if redness, itching, or irritation occurs."
+        },
+        "eye_contact": {
+          "risk": "Caution",
+          "advice": "Rinse immediately with clean running water if sap or gel causes irritation."
+        },
+        "smelling": {
+          "risk": "Usually low",
+          "advice": "Ordinary smelling is not a typical poisoning route."
+        }
+      },
+      "possible_symptoms": [
+        "Abdominal cramps",
+        "Diarrhea",
+        "Dehydration",
+        "Electrolyte disturbances"
+      ],
+      "what_to_do": [
+        "Seek medical advice after swallowing aloe latex or an unprocessed preparation.",
+        "Seek urgent help for severe diarrhea, weakness, fainting, or signs of dehydration."
+      ],
+      "prevention": [
+        "Do not consume yellow latex.",
+        "Do not assume every aloe preparation is suitable for eating."
+      ],
+      "important_note": "Topical gel and oral latex have different risk profiles."
+    },
+    {
+      "plant_name": "Amruthaballi",
+      "scientific_name": "Often Tinospora cordifolia; local identification requires confirmation",
+      "identification_confidence": "Medium",
+      "toxicity_level": "Moderate; evidence and preparation-dependent",
+      "short_warning": "Some preparations associated with Tinospora cordifolia have been linked to liver injury.",
+      "why_it_is_harmful": "Liver injury has been reported in some people using Tinospora cordifolia preparations. The precise cause and individual risk can vary.",
+      "dangerous_parts": [
+        "Concentrated preparations",
+        "Orally consumed herbal products"
+      ],
+      "toxic_compounds": [
+        "Not conclusively established as a single responsible compound"
+      ],
+      "exposure_safety": {
+        "eating": {
+          "risk": "Preparation-dependent",
+          "advice": "Do not consume unidentified plant material or concentrated herbal preparations without qualified advice."
+        },
+        "skin_contact": {
+          "risk": "Not well established",
+          "advice": "Wash hands after handling and stop contact if irritation occurs."
+        },
+        "eye_contact": {
+          "risk": "Unknown",
+          "advice": "Rinse immediately if sap enters the eyes."
+        },
+        "smelling": {
+          "risk": "Usually low for ordinary exposure",
+          "advice": "Ordinary smelling is not a typical route for the reported liver injury."
+        }
+      },
+      "possible_symptoms": [
+        "Nausea",
+        "Abdominal discomfort",
+        "Unusual tiredness",
+        "Dark urine",
+        "Yellowing of the skin or eyes in cases of liver injury"
+      ],
+      "what_to_do": [
+        "Stop using a suspected product and contact a medical professional if adverse symptoms develop.",
+        "Seek urgent medical evaluation for jaundice, dark urine, or severe abdominal symptoms."
+      ],
+      "prevention": [
+        "Verify the plant species.",
+        "Avoid unsupervised use of concentrated herbal preparations.",
+        "Tell a healthcare professional about herbal products being used."
+      ],
+      "important_note": "The regional name and species should be verified. Do not present every traditional preparation as equally toxic."
+    },
+    {
+      "plant_name": "Henna",
+      "scientific_name": "Lawsonia inermis",
+      "identification_confidence": "High",
+      "toxicity_level": "Low for ordinary external use of pure henna; product-dependent",
+      "short_warning": "Some henna products cause allergic reactions. Black henna may contain dangerous additives.",
+      "why_it_is_harmful": "Pure henna can cause skin reactions in some people. Products marketed as black henna may contain para-phenylenediamine or other additives that can cause severe allergic reactions.",
+      "dangerous_parts": [
+        "Products containing irritating or allergenic additives"
+      ],
+      "toxic_compounds": [
+        "Para-phenylenediamine in some adulterated products",
+        "Other product-specific additives"
+      ],
+      "exposure_safety": {
+        "eating": {
+          "risk": "Product-dependent",
+          "advice": "Henna products are not food. Do not swallow them."
+        },
+        "skin_contact": {
+          "risk": "Low for many pure products; potentially high for adulterated products",
+          "advice": "Use products from reliable sources and stop use if itching, redness, swelling, or blistering develops."
+        },
+        "eye_contact": {
+          "risk": "Caution",
+          "advice": "Rinse immediately with clean running water if the product enters the eyes."
+        },
+        "smelling": {
+          "risk": "Usually low; product-dependent",
+          "advice": "Avoid inhaling powder or strong chemical fumes, and use products in a well-ventilated area."
+        }
+      },
+      "possible_symptoms": [
+        "Itching",
+        "Redness",
+        "Skin swelling",
+        "Blistering",
+        "Severe allergic reactions in susceptible individuals"
+      ],
+      "what_to_do": [
+        "Stop using the product if a reaction develops.",
+        "Wash the affected area gently.",
+        "Seek urgent care for facial swelling, breathing difficulty, or a widespread severe reaction."
+      ],
+      "prevention": [
+        "Avoid products with unknown ingredients.",
+        "Do not assume black henna is pure henna.",
+        "Follow product safety instructions."
+      ],
+      "important_note": "The risks of pure henna and adulterated cosmetic products are different."
+    },
+    {
+      "plant_name": "Pumpkin",
+      "scientific_name": "Cucurbita species",
+      "identification_confidence": "Medium",
+      "toxicity_level": "Low for normal food varieties; potentially High for unusually bitter fruit",
+      "short_warning": "Unusually bitter pumpkin or squash may contain harmful cucurbitacins.",
+      "why_it_is_harmful": "Some cucurbit plants produce cucurbitacins, bitter compounds that can cause severe gastrointestinal illness.",
+      "dangerous_parts": [
+        "Unusually bitter fruits"
+      ],
+      "toxic_compounds": [
+        "Cucurbitacins in certain varieties or plants"
+      ],
+      "exposure_safety": {
+        "eating": {
+          "risk": "Low for normal food varieties; potentially high for unusually bitter fruit",
+          "advice": "Do not eat pumpkin or squash that tastes unusually bitter. Discard it rather than trying to make it safe by cooking."
+        },
+        "skin_contact": {
+          "risk": "Usually low",
+          "advice": "Ordinary handling is generally safe. Wash hands after handling."
+        },
+        "eye_contact": {
+          "risk": "Usually low",
+          "advice": "Rinse the eyes if plant sap or debris enters them."
+        },
+        "smelling": {
+          "risk": "Usually low",
+          "advice": "Ordinary smelling is not a typical poisoning route."
+        }
+      },
+      "possible_symptoms": [
+        "Severe abdominal cramps",
+        "Vomiting",
+        "Diarrhea",
+        "Dehydration"
+      ],
+      "what_to_do": [
+        "Stop eating an unusually bitter fruit immediately.",
+        "Seek medical advice if any amount of unusually bitter fruit is swallowed and symptoms occur.",
+        "Seek urgent care for severe vomiting or diarrhea."
+      ],
+      "prevention": [
+        "Do not eat unusually bitter cucurbit fruits.",
+        "Do not rely on cooking to remove cucurbitacins."
+      ],
+      "important_note": "Normal edible pumpkin is not generally considered poisonous. Unusual bitterness is an important warning sign."
+    },
+    {
+      "plant_name": "Gasagase",
+      "scientific_name": null,
+      "identification_confidence": "Low",
+      "toxicity_level": "Unknown",
+      "short_warning": "The regional name may refer to different plants or plant products.",
+      "why_it_is_harmful": "A reliable toxicity explanation cannot be provided until the intended species or product is identified.",
+      "dangerous_parts": [],
+      "toxic_compounds": [],
+      "exposure_safety": {
+        "eating": {
+          "risk": "Unknown",
+          "advice": "Do not eat unidentified plant material or seeds."
+        },
+        "skin_contact": {
+          "risk": "Unknown",
+          "advice": "Avoid unnecessary contact and wash hands after handling."
+        },
+        "eye_contact": {
+          "risk": "Unknown",
+          "advice": "Rinse immediately if plant material enters the eyes."
+        },
+        "smelling": {
+          "risk": "Unknown",
+          "advice": "Do not infer toxicity from smell alone. Avoid inhaling smoke or dust from unidentified plant material."
+        }
+      },
+      "possible_symptoms": [],
+      "what_to_do": [
+        "Obtain a photograph and reliable botanical identification.",
+        "Contact a medical professional if ingestion or significant exposure has occurred."
+      ],
+      "prevention": [
+        "Do not guess the scientific name from the regional name alone."
+      ],
+      "important_note": "This entry must remain unclassified until identification is reliable."
+    },
+    {
+      "plant_name": "Ganike",
+      "scientific_name": null,
+      "identification_confidence": "Low",
+      "toxicity_level": "Unknown",
+      "short_warning": "Confirm the species before assigning a toxicity level.",
+      "why_it_is_harmful": "Some plants in the Solanum genus contain glycoalkaloids, but the local name alone does not establish that this plant belongs to that genus.",
+      "dangerous_parts": [],
+      "toxic_compounds": [],
+      "exposure_safety": {
+        "eating": {
+          "risk": "Unknown",
+          "advice": "Do not eat unidentified berries, leaves, or other plant parts."
+        },
+        "skin_contact": {
+          "risk": "Unknown",
+          "advice": "Avoid unnecessary contact with unidentified plant sap."
+        },
+        "eye_contact": {
+          "risk": "Unknown",
+          "advice": "Rinse immediately if sap or plant material enters the eyes."
+        },
+        "smelling": {
+          "risk": "Unknown",
+          "advice": "Ordinary smelling is not a reliable way to assess plant toxicity."
+        }
+      },
+      "possible_symptoms": [],
+      "what_to_do": [
+        "Confirm the botanical identity.",
+        "Seek medical advice after suspected ingestion."
+      ],
+      "prevention": [
+        "Do not eat unidentified berries or plant parts."
+      ],
+      "important_note": "Do not assign Solanum-specific toxicity without confirming the species."
+    },
+    {
+      "plant_name": "Badipala",
+      "scientific_name": null,
+      "identification_confidence": "Low",
+      "toxicity_level": "Unknown",
+      "short_warning": "Plant identity has not been confirmed.",
+      "why_it_is_harmful": "The toxicity profile cannot be established reliably from this regional name alone.",
+      "dangerous_parts": [],
+      "toxic_compounds": [],
+      "exposure_safety": {
+        "eating": {
+          "risk": "Unknown",
+          "advice": "Do not eat the plant until it has been identified."
+        },
+        "skin_contact": {
+          "risk": "Unknown",
+          "advice": "Avoid unnecessary contact with sap and wash hands after handling."
+        },
+        "eye_contact": {
+          "risk": "Unknown",
+          "advice": "Rinse immediately if plant material enters the eyes."
+        },
+        "smelling": {
+          "risk": "Unknown",
+          "advice": "Do not infer toxicity from smell alone."
+        }
+      },
+      "possible_symptoms": [],
+      "what_to_do": [
+        "Obtain reliable botanical identification.",
+        "Contact a medical professional after suspected ingestion or significant exposure."
+      ],
+      "prevention": [
+        "Do not consume unidentified plants."
+      ],
+      "important_note": "Toxicity classification is pending species identification."
+    },
+    {
+      "plant_name": "Chakte",
+      "scientific_name": null,
+      "identification_confidence": "Low",
+      "toxicity_level": "Unknown",
+      "short_warning": "Plant identity has not been confirmed.",
+      "why_it_is_harmful": "Available identification information is insufficient to determine whether the plant is toxic.",
+      "dangerous_parts": [],
+      "toxic_compounds": [],
+      "exposure_safety": {
+        "eating": {
+          "risk": "Unknown",
+          "advice": "Do not eat the plant until it has been identified."
+        },
+        "skin_contact": {
+          "risk": "Unknown",
+          "advice": "Avoid unnecessary contact and wash hands after handling."
+        },
+        "eye_contact": {
+          "risk": "Unknown",
+          "advice": "Rinse immediately if plant material enters the eyes."
+        },
+        "smelling": {
+          "risk": "Unknown",
+          "advice": "Do not infer toxicity from smell alone."
+        }
+      },
+      "possible_symptoms": [],
+      "what_to_do": [
+        "Obtain reliable botanical identification.",
+        "Seek medical advice after suspected poisoning."
+      ],
+      "prevention": [
+        "Do not consume unidentified plants."
+      ],
+      "important_note": "Toxicity classification is pending species identification."
+    },
+    {
+      "plant_name": "Kambajala",
+      "scientific_name": null,
+      "identification_confidence": "Low",
+      "toxicity_level": "Unknown",
+      "short_warning": "Plant identity has not been confirmed.",
+      "why_it_is_harmful": "There is insufficient information to determine the species and its potential hazards.",
+      "dangerous_parts": [],
+      "toxic_compounds": [],
+      "exposure_safety": {
+        "eating": {
+          "risk": "Unknown",
+          "advice": "Do not eat the plant until it has been identified."
+        },
+        "skin_contact": {
+          "risk": "Unknown",
+          "advice": "Avoid unnecessary contact and wash hands after handling."
+        },
+        "eye_contact": {
+          "risk": "Unknown",
+          "advice": "Rinse immediately if plant material enters the eyes."
+        },
+        "smelling": {
+          "risk": "Unknown",
+          "advice": "Do not infer toxicity from smell alone."
+        }
+      },
+      "possible_symptoms": [],
+      "what_to_do": [
+        "Obtain reliable botanical identification.",
+        "Contact a medical professional after suspected ingestion or significant exposure."
+      ],
+      "prevention": [
+        "Do not consume unidentified plants."
+      ],
+      "important_note": "Toxicity classification is pending species identification."
+    },
+    {
+      "plant_name": "Kasambruga",
+      "scientific_name": null,
+      "identification_confidence": "Low",
+      "toxicity_level": "Unknown",
+      "short_warning": "Plant identity has not been confirmed.",
+      "why_it_is_harmful": "A reliable explanation of toxicity requires identification of the botanical species.",
+      "dangerous_parts": [],
+      "toxic_compounds": [],
+      "exposure_safety": {
+        "eating": {
+          "risk": "Unknown",
+          "advice": "Do not eat the plant until it has been identified."
+        },
+        "skin_contact": {
+          "risk": "Unknown",
+          "advice": "Avoid unnecessary contact with sap and wash hands after handling."
+        },
+        "eye_contact": {
+          "risk": "Unknown",
+          "advice": "Rinse immediately if plant material enters the eyes."
+        },
+        "smelling": {
+          "risk": "Unknown",
+          "advice": "Do not infer toxicity from smell alone."
+        }
+      },
+      "possible_symptoms": [],
+      "what_to_do": [
+        "Obtain reliable botanical identification.",
+        "Seek medical advice after suspected poisoning."
+      ],
+      "prevention": [
+        "Do not consume unidentified plants."
+      ],
+      "important_note": "Toxicity classification is pending species identification."
+    },
+    {
+      "plant_name": "Padri",
+      "scientific_name": null,
+      "identification_confidence": "Low",
+      "toxicity_level": "Unknown",
+      "short_warning": "Plant identity has not been confirmed.",
+      "why_it_is_harmful": "The regional name alone is insufficient to establish the plant's toxicity.",
+      "dangerous_parts": [],
+      "toxic_compounds": [],
+      "exposure_safety": {
+        "eating": {
+          "risk": "Unknown",
+          "advice": "Do not eat the plant until it has been identified."
+        },
+        "skin_contact": {
+          "risk": "Unknown",
+          "advice": "Avoid unnecessary contact and wash hands after handling."
+        },
+        "eye_contact": {
+          "risk": "Unknown",
+          "advice": "Rinse immediately if plant material enters the eyes."
+        },
+        "smelling": {
+          "risk": "Unknown",
+          "advice": "Do not infer toxicity from smell alone."
+        }
+      },
+      "possible_symptoms": [],
+      "what_to_do": [
+        "Obtain reliable botanical identification.",
+        "Contact a medical professional after suspected ingestion or significant exposure."
+      ],
+      "prevention": [
+        "Do not consume unidentified plants."
+      ],
+      "important_note": "Toxicity classification is pending species identification."
+    },
+    {
+      "plant_name": "Kepala",
+      "scientific_name": null,
+      "identification_confidence": "Low",
+      "toxicity_level": "Unknown",
+      "short_warning": "Plant identity has not been confirmed.",
+      "why_it_is_harmful": "There is insufficient botanical information to determine the hazards of this plant.",
+      "dangerous_parts": [],
+      "toxic_compounds": [],
+      "exposure_safety": {
+        "eating": {
+          "risk": "Unknown",
+          "advice": "Do not eat the plant until it has been identified."
+        },
+        "skin_contact": {
+          "risk": "Unknown",
+          "advice": "Avoid unnecessary contact with sap and wash hands after handling."
+        },
+        "eye_contact": {
+          "risk": "Unknown",
+          "advice": "Rinse immediately if plant material enters the eyes."
+        },
+        "smelling": {
+          "risk": "Unknown",
+          "advice": "Do not infer toxicity from smell alone."
+        }
+      },
+      "possible_symptoms": [],
+      "what_to_do": [
+        "Obtain reliable botanical identification.",
+        "Seek medical advice after suspected ingestion or significant exposure."
+      ],
+      "prevention": [
+        "Do not consume unidentified plants."
+      ],
+      "important_note": "Toxicity classification is pending species identification."
+    }
+  ]
+}
